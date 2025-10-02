@@ -1,3 +1,11 @@
 # Educational frameworks. What are they and why do we need them for education in the age of AI?
+According to the Cambridge Dictionary, a framework is "a supporting structure around which something can be built." In the context of education, a framework serves as the foundation that determines how classes are structured, defining both the content knowledge and pedagogical tools applied in the classroom. However, educational frameworks are highly dependent on context and scale. They cannot simply be copied and pasted from one setting to another, as factors such as city size, school resources, socioeconomic disparities, student enrollment, available tools, and the capacities of both teachers and students will produce varying outcomes. For this reason, a robust educational framework should be multiscalar and modular, allowing it to adapt, within reasonable limits, to different environmental conditions while still producing meaningful results.
 
-According to the cambridge dictionary a framework is "a supporting structure around which something can be built" in the context of education, a framework is the base that determines how the classes are built, exploring contents knowledge and tools that will be aplied to the classroom. Is worth noting that a framewrok is highly dependent on context and size. An educational framework cannot be copied and pasted from one place into another as scales of the cities, centers, socio-economical discrepancies and number of students, tools available and capacities from both teachers and students might generate different results. For this reason and with the goal of building a robust framework it ***should*** be multiscalar and modular, so it can (to an extent) have. arulset to be adapted to these environmental changes and produce meaningful results.  
+
+## How should a framework be?
+
+## How do we measure its output?
+
+## How do we make it modular?
+
+## How do we implement it in the classroom? (Case Study)
