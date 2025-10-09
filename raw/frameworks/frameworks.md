@@ -12,12 +12,24 @@ According to the Cambridge Dictionary, a framework is "a supporting structure ar
 
 ## Steps to start thinking critacally
 
-1 - Formulate questions
+1- Formulate questions
 
-2 - Gather relevant information
+2- Gather relevant information
 
-3 - Apply the information
+3- Apply the information
 
-4 - Consider the implications (aplications and implications)
+4- Consider the implications (aplications and implications)
 
-5 - Explore other points of view
+5- Explore other points of view
+
+
+
+*how to simplify the teaching of critical thinking without reducing its complexity*
+
+1- Detail analytic observation
+
+2- Complex questioning
+
+3- Evaluation 
+
+4- Conclusion
