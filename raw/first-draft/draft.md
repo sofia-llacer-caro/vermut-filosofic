@@ -24,3 +24,6 @@ The rapid adoption of LLMs like chatgpt by students to write essays, do calculat
 ## The Future (or WHY?)
 
 
+se requieren ciertos conocimientos básicos para poder aforntar un pensamiento crítico
+la tecnología no tiene restricciones éticas
+se requiere un bagage crítico previo para poder utilizar un llm
