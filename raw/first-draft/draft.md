@@ -51,6 +51,10 @@ ejemplos de qué NO está funcionando y por qué:
 
 
 
+tal vez podemos ya meter algunas historias nuestras tipo once o la fp como estudios de caso.
+
+intentamos mantenernos propositivos: por cada reto en el manifesto, proponer una o dos posibles soluciones. e.g. burocracia y friccion para hacer que se piense mas, co-evaluacion
+
 se requieren ciertos conocimientos básicos para poder aforntar un pensamiento crítico
 la tecnología no tiene restricciones éticas
 se requiere un bagage crítico previo para poder utilizar un llm
