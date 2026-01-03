@@ -14,12 +14,16 @@ The rapid adoption of LLMs like chatgpt by students to write essays, do calculat
 - HOW: How does technology work?
 - Flaws: Theoretical based learning, teachers are the center of the classroom, truth is what they say, students do not question
 
+- tecnologia como contenido aislado circumscrito a su propia asignatura
+
 ## The Present (or WHAT?)
 
 - Learning by doing
 - Apperance of Fab labs in conbination with newer ways of teaching drove education models where teachers are no longer the carriers of the truth but facilitators for students to "build" their own knowledge.
 - WHAT: What can I do with this technology
 - Flaws: Implementation issues (Only applied where "makes sense" to teach technology / specialtsx teaching whoch means teachers do not fully understand the technology they deal with), 
+
+- applications: tecnologia como herramienta o eje transversal en el ambito educativo
 
 ## The Future (or WHY?)
 
@@ -28,6 +32,8 @@ The rapid adoption of LLMs like chatgpt by students to write essays, do calculat
 - la fricción es necesaria para el aprendizaje (tal vez una evaluacion o coevaluacion tediosa y burocratica puede contribuir a este proceso)
 - necesitamos desarrollar pensamiento critico (bias-based learning // explicitar assumptions)
 - la educacion no es solo un contenido, sino tambien un contexto (generacional, social, economico, mirada transversal)
+
+- todavia mas zoom out: cómo podemos usar ia generativa to power learning? 
 
 
 
