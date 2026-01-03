@@ -13,6 +13,7 @@ The rapid adoption of LLMs like chatgpt by students to write essays, do calculat
 - What did that mean for technology teaching??
 - HOW: How does technology work?
 - Flaws: Theoretical based learning, teachers are the center of the classroom, truth is what they say, students do not question
+- tecnologia sin friccion: un black box. se quiere proponer luego que tengamos technical mentality o dar las herramientas para que se sientan capaces de enfrentarse a abrir estas black boxes convirtiendose en soberanos tecnologicos
 
 - tecnologia como contenido aislado circumscrito a su propia asignatura
 
