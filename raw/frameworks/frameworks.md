@@ -32,4 +32,4 @@ According to the Cambridge Dictionary, a framework is "a supporting structure ar
 
 3- Evaluation 
 
-4- Conclusion
+4- Conclusion.
