@@ -1,15 +1,25 @@
 # Bias based learning: What is to be done to develop critical thinking in the age of LLMs?
 
 
-The rapid adoption of LLMs like chatgpt by students to write essays, do calculations or straight up "think" on their behalf, disregarding teachers' opinions or POVs should be enough evidence to bring the educator community back to the drawing board in order to rethink the role of technology in education and it's evolution thourgh the different technological contexts.
+The rapid adoption of LLMs like chatgpt by students to write essays, do calculations or straight up "think" on their behalf, disregarding teachers' opinions or POVs should be enough evidence to bring the educator community back to the drawing board in order to rethink the role of technology in education and its evolution thourgh the different technological contexts.
 
 
 
 
 
 ## The Past (or HOW?)
+La tecnologia como elemento de cambio, catalizador de las reestructuraciones educativas que han tenido lugar en las últimas décadas.
 
-- Old education systems, transition into new relations
+
+
+### Old education systems, transition into new relations
+
+la educación tradicional ha sido y es, represiva y coercitiva en la parte moral, memorística en lo intelectual, discriminatoria y elitista en el plano social, conformista en lo cívico; produciendo un estudiante pacifista en lo intelectual, no creativo y sin iniciativa.
+el profesor es el cimiento y condición del éxito educativo, a quien le corresponde organizar el conocimiento, aislar y elaborar lo que debe ser aprendido y trazar el camino por el que transitarán sus alumnos. Adicionan, que el profesor es modelo y guía al que se debe imitar y obedecer.
+la actividad de los alumnos implicada en su proceso de aprender, consiste básicamente en recibir del profesor la información que sólo este conoce e ir acumulándola, con vistas a poderla reproducir con la máxima fidelidad en el momento del examen.
+se caracteriza por tener un currículo inflexible y centrado en el aula. \cite{galvan2021educacion}
+
+
 - What did that mean for technology teaching??
 - HOW: How does technology work?
 - Flaws: Theoretical based learning, teachers are the center of the classroom, truth is what they say, students do not question
