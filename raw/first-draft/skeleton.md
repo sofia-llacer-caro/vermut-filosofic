@@ -28,3 +28,11 @@ As evident from several research lines such as ... and ... [here we can talk abo
 Educational goal must shift from using tools to understanding systems [we can have a deeper look into systems theory, im on it]. 
 
 This requires a new educational foundation: critical thinking oriented toward technological sovereignty.
+
+# WHY CRITICAL THINKING BECOMES CENTRAL IN THE AGE OF LLMs
+
+## What is critical thinking? [a frankenstein definition for our purposes]
+
+## Critical thinking as a trainable cognitive practice
+
+## Why LLMs make critical thinking structurally necessary
