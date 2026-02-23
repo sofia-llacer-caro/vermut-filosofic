@@ -19,3 +19,12 @@ in this model, the teacher becomes a facilitator, where technology is a transver
 this emphasis here is on "what do i want to make --> how do i make it". it is therefore based in an instrumental mindset when it comes to technology, where we use it and interact with it in a unilateral way. 
 
 this is not applicable, however, to LLMs, paraticularly in education settings, as shown by MIT's studies on the recently coined term "cognitive debt" upon use of these technologies by students [here we should cite it]. we are no longer dealing with a unilateral interaction with technology (one way street), but also with what this technology does to us.
+
+## The (emerging) future - technology as a condition of thought [quite pretentious, but we should think of a nice title for this section probably after we've written more of the paper]
+
+As evident from several research lines such as ... and ... [here we can talk about AI psychosis, sychophancy and self reassuring bubbles or, in learning, cognitive debt], these technologies are not just a tool we use, but they also shape our cognition, [microstate], in the bigger picture [macrostate], social structures. [here the link is very fint, the arguments should be more solid. i think maybe a way could be to get into the epistemological aspect of language and how both are shaped and interconnected, pero igual es demasiado fumada.].
+
+
+Educational goal must shift from using tools to understanding systems [we can have a deeper look into systems theory, im on it]. 
+
+This requires a new educational foundation: critical thinking oriented toward technological sovereignty.
