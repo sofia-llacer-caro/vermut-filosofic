@@ -53,3 +53,11 @@ exposure to these practices such as metacognition, identifying underlying assump
 LLMs simulate reasoning through very eloquent language. these probabilistic models, far from producing knowledge, produce the most likely word with extreme confidence within their speech. we want to stress the epistemic difference between ideas (which are abstract and can be expressed though different channels, one of them being language) and language itself as an artifact which can very well be empty of ideas or background reasoning, as is the case of LLMs. besides this realization, which is at the very core of our argumentation and non-techno-futuristic interpretation of what LLMs are.
 one aspect of this, as we mentioned, is the blind trust in eloquent but not "reasoning-backed"-LLMs. we believe, furthermore, that another risk behind using these technologies without critically reflecting on them is passivity. without prior critical capacity, over-reliance on LLMs amplifies passivity and can then lead into a loop of epistemic outsourcing: having less critical thinking skills can lead to over-reliance and thinking outsourcing, which in turn leads to more congitive debt (see \cite{kosmyna2025brainchatgptaccumulationcognitive}), more passivity and, again, over-reliance and viceversa. "choosing the easy path" can be costly over time, especially when done repeatedly, since we believe friction is an essential aspect of learning and crafting ideas.
 
+
+# FROM DEMOCRATIZATION TO TECHNOLOGICAL SOVEREIGNTY
+
+## Limits of “user-friendly democratization”
+
+## Technological sovereignty
+
+## The role of friction in learning
