@@ -33,6 +33,23 @@ This requires a new educational foundation: critical thinking oriented toward te
 
 ## What is critical thinking? [a frankenstein definition for our purposes]
 
+synthesized definition + key indicators --> ask berta (her research goes very much in that direction)
+
+- reflective judgment: The way individuals understand the nature of knowledge and how they justify beliefs about complex, ill-structured problems. it concerns uncertainty, evidence evaluation, criteria for justification and it is relevant in conditions where problems are open and no single correct answer is available. \cite{KITCHENER198189}
+
+- metacognition: thinking about one's thinking is essential to bring awareness to underlying structures and implicit biases in one's reasoning and understanding.
+
+- another aspect we deem essential surrounding the ability of students (and citizens) to think critically is identifying underlying assumptions. [we shold probably explain a bit more. maybe through an analogy or example]
+
+
+
 ## Critical thinking as a trainable cognitive practice
+if we take reflective judgement as defined by kitchener to be a skill parallel to critical thinking, we can see that  the findings of this (very relevant) article in the area state that age and educational level. however, they assert, the development of reflective judgement (which we take as a parallel to critical thinking) is not automatic and education must engage studentss with open-ended questions and ill-structured problems \cite{KITCHENER198189}
+
+exposure to these practices such as metacognition, identifying underlying assumptions in one's (or others') arguments adn statements, we believe, is an effective way to train the "muscle" of critical thinking.
+
 
 ## Why LLMs make critical thinking structurally necessary
+LLMs simulate reasoning through very eloquent language. these probabilistic models, far from producing knowledge, produce the most likely word with extreme confidence within their speech. we want to stress the epistemic difference between ideas (which are abstract and can be expressed though different channels, one of them being language) and language itself as an artifact which can very well be empty of ideas or background reasoning, as is the case of LLMs. besides this realization, which is at the very core of our argumentation and non-techno-futuristic interpretation of what LLMs are.
+one aspect of this, as we mentioned, is the blind trust in eloquent but not "reasoning-backed"-LLMs. we believe, furthermore, that another risk behind using these technologies without critically reflecting on them is passivity. without prior critical capacity, over-reliance on LLMs amplifies passivity and can then lead into a loop of epistemic outsourcing: having less critical thinking skills can lead to over-reliance and thinking outsourcing, which in turn leads to more congitive debt (see \cite{kosmyna2025brainchatgptaccumulationcognitive}), more passivity and, again, over-reliance and viceversa. "choosing the easy path" can be costly over time, especially when done repeatedly, since we believe friction is an essential aspect of learning and crafting ideas.
+
