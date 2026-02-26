@@ -57,7 +57,33 @@ one aspect of this, as we mentioned, is the blind trust in eloquent but not "rea
 # FROM DEMOCRATIZATION TO TECHNOLOGICAL SOVEREIGNTY
 
 ## Limits of “user-friendly democratization”
+- Fábula del zorro ("user-friendly") [here @jmuozan can probably explain better, also a good idea to cite the book]
+nowadays, "Democratizing" is no longer a word which reflects an active participation in building or, in a way, making things beyond just using in "user-friendly" platforms. access to the technologies does not automatically mean understanding or questioning. the "user-friendly" economy is precisely that, <u>user<u> friendly. User being a passive interaction reduced to almost consumption. it contributes to increasing our comfort and dependence on black boxes in a way which has already been questioned by the maker community, as introduced by ... and ... [@jmuozan u can probably say more here].
+
+
+Para crear soberanos tecnologicos, tenemos que llevar a cabo una alfabetizacion. No hablamos de como aprender a hacer un powerpoint en una clase de informatica ni de saber cómo usar cada una de las funciones predefinidas en la UI de chatgpt en el sentido de la educacion de modelo decimononico explicado anteriormente. Nos referimos a una alfabetizacion en el sentido propuesto por paulo Freire (see \cite{freire1998pedagogy}), como una transformacion en el modo en el que ocupamos espacios y que lugar tomamos: el de consumidor industrial pasivo o el de maker. Para esto, creemos que la tecnologia, en tanto que herramienta, deberia estar completamente integrada en curriculums educativos más allá de las delimitaddas clases de nuevas tecnologias o informatica. la ya extendida ia generativa puede ser una oportunidad de cuestionarmos por qué enseñamos los currículums que enseñamos y cómo lo hacemos, y de pensar en nuevas formas actualizadas y empoderadoras de educar. ejemplo de luke davidson enseñando macbeth shakespeare. qué tipo de preguntas podríamos plantearnos en este caso? how can we talk about the big elephant in the room?
+
 
 ## Technological sovereignty
 
+the corruption of the word "democratization" is the reason why we propose a shift towards an educational framework which, instead, places technological sovereignty at the core. The crucial question would then no longer be "how do we democratize technology?"; but rather "how do we create technological sovereigns?". We believe that critical thinking (as explained earlier) through questioning these technologies (implicit assumptions inherently present in their development, who they are built by, or the economic structures that support them, for instance), could be a step towards technological sovereignty. 
+
+in a more concrete way, we could make an attempt at a definition of technological sovereignty as the capacity to understand, question, modify and decide over technology, which we consider particularly crucial when it comes to LLMs in education. 
+
+
 ## The role of friction in learning
+
+[here @jmuozan can probably say much more]
+
+- thinking requires resistance [craft mentality]
+
+- cognitive effort is pedagogically necessary
+
+- efficiency is not always educationally desirable [we could cite again the MIT cognitive debt paper]
+
+
+--------------------
+
+
+* SPECIFIC EXAMPLES WHICH CAN BE USED LATER
+Some examples of learning environment activities could be opening black boxes or empowering a deeper understanding through technical mentality [@jmuozan cita el libro este que leiste que hablaba de esto]. (specific example 1, specific example 2) --> We need to first educate educators on this mindset, especially in areas which are non-technical. fearing or banning the inevitable use of gen ai by steudents is like trying to catch the rain with a sieve
