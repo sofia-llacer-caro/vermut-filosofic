@@ -4,7 +4,7 @@
 Common space to reflect on critical thinking in relationship to artificial intelligence.
 
 
-- [About Frameworks](./raw/frameworks/frameworks.md)
+- [Skeleton](./raw/first-draft/skeleton.md)
 
 - [About Critical Thinking](./raw/critical-thinking/first-notes-basic-definition)
 
