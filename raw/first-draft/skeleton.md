@@ -79,6 +79,10 @@ in a more concrete way, we could make an attempt at a definition of technologica
 
 ## The role of friction in learning
 
+https://www.linkedin.com/posts/arielguers_einstein-connects-to-your-canvas-account-activity-7432073453693927424-CO2D?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD9KSk8BUqRHNV1l3lNRxwyuXgzhp7PhABs
+
+
+
 [here @jmuozan can probably say much more]
 
 - thinking requires resistance [craft mentality]
