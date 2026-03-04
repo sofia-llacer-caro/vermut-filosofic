@@ -92,6 +92,33 @@ https://www.linkedin.com/posts/arielguers_einstein-connects-to-your-canvas-accou
 - efficiency is not always educationally desirable [we could cite again the MIT cognitive debt paper]
 
 
+# EDUCATIONAL FRAMEWORK FOR THE AGE OF LLMS
+
+## What is an education framework?
+we take an educational framework to be the structural foundation which enables and empowers learning. it can serve as a "skeleton" of abstract ideas which can then be adapted to particular cases and contexts (historical, sociological, cultural...). it must be modular, adaptable and multiscalar in order to serve the multiple local settings of diverse communities. [@jmuozan if you want to add more, please go ahead. this just serves as a general-purpose definition, but i am not knowledgeable in the topic, you can probably add content and specificity here]
+
+## Design principles of the proposed framework
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 --------------------
 
 
