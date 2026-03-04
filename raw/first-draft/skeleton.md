@@ -99,7 +99,14 @@ we take an educational framework to be the structural foundation which enables a
 
 ## Design principles of the proposed framework
 
+[i don't know, these are just some thoughts, feel free to modify. also, they are big statements/principles. i think it's a good idea to just keep them as they are without the explanation after the :, but i left them there in case we want to develop the ideas a bit more, or even place the snippets later in the article]
 
+- critical inquiry before application: what do i want to do, why do i want to use llms? how do i want to use them? [a map]
+- transparency of cognitive contribution: helps both the educator and the student be more aware and honest with themselves about what areas they have received assistance on
+- exposure of technological black boxes: information on how they work can contribute to a critical understanding on what tasks we want to use them for and why [@jmuozan can probably say more here], (concept of epistemic opacity / \cite{the conference by Títílọlá Olojede})
+- integration accross curriculum: llms are already being used by students, let's take the lead on proposing examples of how they can use them to empower their learning, rather than them delegating their thinking on them; not seeing them as an isolated "ai course", but rather integration as a natural tool accross curriculum (an example: hamlet and luke)
+- reflective use of llms:  [here i guess it's about asking ourselves what the answers of LLMs are like through critical inquiry. but i don't know how to explain this one in a concise way]
+- explicit assumptions and bias analysis
 
 
 
