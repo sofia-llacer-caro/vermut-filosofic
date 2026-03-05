@@ -108,12 +108,23 @@ we take an educational framework to be the structural foundation which enables a
 - reflective use of llms:  [here i guess it's about asking ourselves what the answers of LLMs are like through critical inquiry. but i don't know how to explain this one in a concise way]
 - explicit assumptions and bias analysis
 
+## Structure of critical thinking development
+
+[un ejemplo, se puede hacer por ejemplo como un ciclo]
+
+1. Question formulation
+2. Information gathering
+3. Application
+4. Implication analysis
+5. Perspective exploration
 
 
+## Measuring educational impact
 
+A tentative way of evaluating the impact of this approach could include some dimensions rooted in how critial thinking is measured itself: epistemic awareness, reasoning transparency, autonomy in technological decision-system and ability to analyze systems. [comprobar el tema de la madre de nestor]
 
-
-
+## Modularity and adaptability
+Once again, we would like to stress the importance of modularity and context sensitivity for its adaptation to different educational environments.
 
 
 
