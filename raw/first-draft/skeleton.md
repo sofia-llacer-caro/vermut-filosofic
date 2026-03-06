@@ -85,7 +85,7 @@ https://www.linkedin.com/posts/arielguers_einstein-connects-to-your-canvas-accou
 
 [here @jmuozan can probably say much more]
 
-- thinking requires resistance [craft mentality]
+- thinking requires resistance [craft mentality] --> here it could be cool to cite eric sadin's the spectral life book (https://www.goodreads.com/book/show/211267944-la-vida-espectral ), aunque la cita es de un tal william morris "lo que caracteriza la figura del artesano es que domina el conjunto de las etapas de la profuccion "pudiendo decir que el objeto que creaba era suobra""
 
 - cognitive effort is pedagogically necessary
 
@@ -110,7 +110,7 @@ we take an educational framework to be the structural foundation which enables a
 
 ## Structure of critical thinking development
 
-[un ejemplo, se puede hacer por ejemplo como un ciclo]
+[un ejemplo, se puede hacer por ejemplo como un ciclo, it could be so cool to make a diagram like a little tree and then feedbing back. i have it in mind, lets discuss it]
 
 1. Question formulation
 2. Information gathering
@@ -127,9 +127,39 @@ A tentative way of evaluating the impact of this approach could include some dim
 Once again, we would like to stress the importance of modularity and context sensitivity for its adaptation to different educational environments.
 
 
+# IMPLEMENTATION IN PRACTICE
+
+## Pedagogical strategies
+opening black boxes --> a step to understanding the tool we are using / to use, along with its limitations, also reflecting about the role we want it to adopt in our learning / epistemic journey
+documenting thinking processes --> a first step for later enablign systems analysis
+structured transparency in AI use --> licensing made by the barcelona fablab, for example [@jmuozan]
+assumption mapping [super important, supersuper important anda good way of establishing a first step for metacognitive thinking]
+system analysis tasks [this could be a positive approach in order to enable and continue the metacognitive as an established map of interconnected aspects which play into the task at handd]
 
 
+## Leaning environments
+Here we can get into the role of [@jmuozan pls i invoke u again]
+- fabrication spaces
+- interdisciplinary learning
+- project-based inquiry
 
+## Educating educators
+It becomes central for teachers to adopt epistemic rather than instrumental undersstanding of AI: how can educators empower critical thinking over LLMs if they themselves take a "black box" approach to it?
+some basic aspect to undestand to go beyond digital shintoism (lol inside joke about sadin): (i) sttistial aspect of it, (ii) its basic working principles, (iii) whatever else we consider, you know?
+
+# CASE STUDIES
+
+## FP
+<!--What was implemented-->
+<!--What worked-->
+<!--What failed-->
+<!--What was learned-->
+
+## ONCE
+<!--What was implemented-->
+<!--What worked-->
+<!--What failed-->
+<!--What was learned-->
 
 
 
