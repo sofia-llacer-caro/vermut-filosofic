@@ -10,3 +10,14 @@ Common space to reflect on critical thinking in relationship to artificial intel
 
 - [About Bias](./raw/social-bias-vl-models/annotated-identifying-implicit-social-biases-vl-models.pdf)
 
+
+
+Jorge to do
+
+- [ ] The present - technology as instrument
+- [x] The role of friction in learning
+- [ ] What is an education framework?
+- [ ] Design principles of the proposed framework (blackboxes part)
+- [ ] Pedagogical strategies
+- [ ] Leaning environments
+- [ ] CASE STUDIES (FP)

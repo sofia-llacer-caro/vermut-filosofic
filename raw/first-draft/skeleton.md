@@ -78,14 +78,12 @@ in a more concrete way, we could make an attempt at a definition of technologica
 
 
 ## The role of friction in learning
-
-https://www.linkedin.com/posts/arielguers_einstein-connects-to-your-canvas-account-activity-7432073453693927424-CO2D?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD9KSk8BUqRHNV1l3lNRxwyuXgzhp7PhABs
-
-
-
+<!--https://www.linkedin.com/posts/arielguers_einstein-connects-to-your-canvas-account-activity-7432073453693927424-CO2D?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD9KSk8BUqRHNV1l3lNRxwyuXgzhp7PhABs
 [here @jmuozan can probably say much more]
+- thinking requires resistance [craft mentality] -> here it could be cool to cite eric sadin's the spectral life book (https://www.goodreads.com/book/show/211267944-la-vida-espectral ), aunque la cita es de un tal william morris "lo que caracteriza la figura del artesano es que domina el conjunto de las etapas de la profuccion "pudiendo decir que el objeto que creaba era suobra""-->
 
-- thinking requires resistance [craft mentality] --> here it could be cool to cite eric sadin's the spectral life book (https://www.goodreads.com/book/show/211267944-la-vida-espectral ), aunque la cita es de un tal william morris "lo que caracteriza la figura del artesano es que domina el conjunto de las etapas de la profuccion "pudiendo decir que el objeto que creaba era suobra""
+In an educational context dominated by friction-free software, defined by the mass adoption of LLMs, it seems imperative to highlight that it is precisely thinking that requires resistance. The student, just like a craftsperson, improves through dwelling in difficulty and lack of understanding. As Richrd Sennett writes in The Craftsman, "resistance and ambiguity can be instructive experiences; to work well, every craftsman has to learn from these experiences rather than fight them" [sennett2008craftsman]. The "smart machines" short-circuit the learning process by stepping in where difficulty begins, resolving the struggle before the student has had to inhabit it.
+
 
 - cognitive effort is pedagogically necessary
 
