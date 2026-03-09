@@ -15,15 +15,23 @@ Yet these abrupt reactions are not just responses to a new tool; they highlight 
 In the past, especially based on the xixth century model, education was based on a teacher-centered approach. with memorization and reproduction at the core of the aspects valued on a student, knowledge was viewed as something to be "deposited onto" the student [here we can cite the historical study of pedagogical methodologies by the venezuelan researcher on the bibliography] [it couls be super cool to make an analogy with industrial production of "educated citizens", in a similar fashion to mass production one-function products on an industrial scale (vs. making and personal fabrication later)]. in this schema, technology has been historically taught as an isolated subject. we're talking about the IT course where you get taught where to click to find a pre-built function in excel as a canonical example of the typical approach taken with regards to technology by this pedagogical model. in this model where the authority of the teacher defines truth, students learn about technology but not how to question it, accepting it as a rigid and functioning black box.
 
 ## The present - technology as instrument
-
-[here it would be nice if you wrote a bit more, since you're more into it, jorge. what i would see though would be explaining the following]
+<!--[here it would be nice if you wrote a bit more, since you're more into it, jorge. what i would see though would be explaining the following]
 - learning by doing
 - fablabs and maker culture
 in this model, the teacher becomes a facilitator, where technology is a transversal tool in order to make what citizens want to make.
 
-this emphasis here is on "what do i want to make --> how do i make it". it is therefore based in an instrumental mindset when it comes to technology, where we use it and interact with it in a unilateral way. 
+this emphasis here is on "what do i want to make -> how do i make it". it is therefore based in an instrumental mindset when it comes to technology, where we use it and interact with it in a unilateral way. 
 
 this is not applicable, however, to LLMs, paraticularly in education settings, as shown by MIT's studies on the recently coined term "cognitive debt" upon use of these technologies by students [here we should cite it]. we are no longer dealing with a unilateral interaction with technology (one way street), but also with what this technology does to us.
+
+-->
+
+The late 20th and early 21st centuries brought a shift in pedagogy itself. Where previous models of education had positioned the student as a passive recipient of pre-packaged knowledge, a current of thinkers and practitioners began to insist that people learn best by making, confronting students with real problems and hand them with real tools to iterate towards solutions. The progressive school movement, which started stablishing itself during the beggining of the 20th century brouht an educational revolution, proposing a paidocentrism opposed to the teacher-as-authority model, where the student became the center of the educational process and the teacher recast as facilitator and collaborator, believing that all educational methods should be tested "alsawys opting for the one that best fits depending on the local characteristics, the nature and character of each child" [sola1980educacio]
+
+The core commitments of the progressive school movement have been progressively adopted into contemporary educational frameworks, shifting from knowledge reproduction to competency acquisition to reframe education as not just the accumulation of information, but the development of capacities that transfer across contexts. Learning to know, to do, to be, and to live together [tawil2013] replaced memorization as the measure of an educated person. To develop these competencies it's requires not just reception but practice, as the capacity to do cannot be transmitted through instruction alone, it must be exercised. Under this idea at heart, learning by doing appeared, a model rooted in constructivism and formalized at the 1930s, that proposed that retention and understanding scale directly with experience [rodriguez2014aprender]. In this paradigm where competency is built through action, then the workshop, the laboratory, and the studio are not supplements to education but its proper site. Under this logic the Fab Labs emmerged as spaces that assembled the tools to make that encounter possible, offering the spaces and the digital fabrication tools to let the user thrive thorugh experimentation. What diferenciated them from conventional workshops was not the tools available but the pedagogy embedded in their design, in this spaces digital fabrication empowers users to build upon their own knowledge through projects of their own choosing, where the question driving the learner shifts from what do I need to know? to what do I want to make, and how do I make it?
+
+Under this model though, the relationship between student and technology, is asymmetrical. The student interacts with the technology by bending it, playing with it, iterating toward a desired output, but the technology itself does not push back. It executes, it responds, and resists mainly in physical ways; it does not propose or question. The tools are powerful, but they remain tools as they get shaped by the makers, and it is this assumption that the arrival of large language models in the classroom has begun to question.
+
 
 ## The (emerging) future - technology as a condition of thought [quite pretentious, but we should think of a nice title for this section probably after we've written more of the paper]
 
@@ -78,14 +86,11 @@ in a more concrete way, we could make an attempt at a definition of technologica
 
 
 ## The role of friction in learning
-
-https://www.linkedin.com/posts/arielguers_einstein-connects-to-your-canvas-account-activity-7432073453693927424-CO2D?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD9KSk8BUqRHNV1l3lNRxwyuXgzhp7PhABs
-
-
-
+<!--https://www.linkedin.com/posts/arielguers_einstein-connects-to-your-canvas-account-activity-7432073453693927424-CO2D?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD9KSk8BUqRHNV1l3lNRxwyuXgzhp7PhABs
 [here @jmuozan can probably say much more]
+- thinking requires resistance [craft mentality] -> here it could be cool to cite eric sadin's the spectral life book (https://www.goodreads.com/book/show/211267944-la-vida-espectral ), aunque la cita es de un tal william morris "lo que caracteriza la figura del artesano es que domina el conjunto de las etapas de la profuccion "pudiendo decir que el objeto que creaba era suobra""-->
 
-- thinking requires resistance [craft mentality] --> here it could be cool to cite eric sadin's the spectral life book (https://www.goodreads.com/book/show/211267944-la-vida-espectral ), aunque la cita es de un tal william morris "lo que caracteriza la figura del artesano es que domina el conjunto de las etapas de la profuccion "pudiendo decir que el objeto que creaba era suobra""
+In an educational context dominated by friction-free software, defined by the mass adoption of LLMs, it seems imperative to highlight that it is precisely thinking that requires resistance. The student, just like a craftsperson, improves through dwelling in difficulty and lack of understanding. As Richrd Sennett writes in The Craftsman, "resistance and ambiguity can be instructive experiences; to work well, every craftsman has to learn from these experiences rather than fight them" [sennett2008craftsman]. "Smart machines" short-circuit the learning process by stepping in where difficulty begins, resolving the struggle before the student has had to inhabit it.
 
 - cognitive effort is pedagogically necessary
 
