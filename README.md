@@ -12,9 +12,9 @@ Common space to reflect on critical thinking in relationship to artificial intel
 
 
 
-Jorge to do
+## Jorge to do list
 
-- [ ] The present - technology as instrument
+- [x] The present - technology as instrument
 - [x] The role of friction in learning
 - [ ] What is an education framework?
 - [ ] Design principles of the proposed framework (blackboxes part)
