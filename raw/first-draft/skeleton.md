@@ -105,7 +105,7 @@ For this reason, understanding education as heavily influenced by the culture an
 
 ## Design principles of the proposed framework
 
-An educational framework, then, is not fixed or rigid. It is structured but open, providing a conceptual overview separated from specific methodologies, so that educators, learners, and communities can inhabit it differently depending on their contexts and needs. Much like a cake recipe, the framework captures the essential idea such as the proportions, the process and the intended result, while leaving room for the cook to adapt. A vegan cook may swap cow's milk for soy or almond, an adventurous one may experiment with different chocolates. The recipe should not prescribe a single cake, as its goal should be to enable many.
+An educational framework, then, is not fixed or rigid. It is structured but open, providing a conceptual overview separated from specific methodologies, so that educators, learners, and communities can inhabit it differently depending on their contexts and needs. Much like a cake recipe, the framework captures the essential idea such as the proportions, the process and the intended result, while leaving room for the cook to adapt. A vegan cook may swap cow's milk for soy or almond, while an adventurous one may experiment with different types of chocolate. The recipe should not describe a single cake, as its goal should be to enable many.
 
 
 [i don't know, these are just some thoughts, feel free to modify. also, they are big statements/principles. i think it's a good idea to just keep them as they are without the explanation after the :, but i left them there in case we want to develop the ideas a bit more, or even place the snippets later in the article]
