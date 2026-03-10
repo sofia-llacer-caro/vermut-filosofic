@@ -99,10 +99,14 @@ In an educational context dominated by friction-free software, defined by the ma
 
 # EDUCATIONAL FRAMEWORK FOR THE AGE OF LLMS
 
-## What is an education framework?
-we take an educational framework to be the structural foundation which enables and empowers learning. it can serve as a "skeleton" of abstract ideas which can then be adapted to particular cases and contexts (historical, sociological, cultural...). it must be modular, adaptable and multiscalar in order to serve the multiple local settings of diverse communities. [@jmuozan if you want to add more, please go ahead. this just serves as a general-purpose definition, but i am not knowledgeable in the topic, you can probably add content and specificity here]
+## What is an educational framework?
+A framework should provide a philosophical, epistemological, methodological and analytical lens, through which to examine a topic [grant2014understanding]. Under this paper's conceptualization, we take an educational framework to be the structural foundation which enables and empowers learning. In this sense, it can serve as a "skeleton" of abstract ideas which can then be adapted to particular cases and contexts (historical, sociological, cultural), as no single framework is necessarily more effective than another, what matters is the fit between a framework and its community of learners. 
+For this reason, understanding education as heavily influenced by the culture and context surrounding the students, shaping how and what they learn as well as how they think and solve problems within their social group [vygotsky1978mind], we condider an educational framework must be modular, adaptable, and multiscalar in order to serve the multiple local settings of diverse communities.
 
 ## Design principles of the proposed framework
+
+An educational framework, then, is not fixed or rigid. It is structured but open, providing a conceptual overview separated from specific methodologies, so that educators, learners, and communities can inhabit it differently depending on their contexts and needs. Much like a cake recipe, the framework captures the essential idea such as the proportions, the process and the intended result, while leaving room for the cook to adapt. A vegan cook may swap cow's milk for soy or almond, an adventurous one may experiment with different chocolates. The recipe should not prescribe a single cake, as its goal should be to enable many.
+
 
 [i don't know, these are just some thoughts, feel free to modify. also, they are big statements/principles. i think it's a good idea to just keep them as they are without the explanation after the :, but i left them there in case we want to develop the ideas a bit more, or even place the snippets later in the article]
 
