@@ -2,7 +2,9 @@
 
 The release of ChatGPT in November 2022 has led to a rapid adoption of generative artificial intelligence, particularly LLMs, among the general public [cite]. An inevitable consequence of this has been the extended usage of these technologies in the context of education [cite]. Students' usage of LLMs in, for instance, assigments, poses a threat to the traditional model of education, based on the role of the teacher as the center of instruction and memoristic techniques as a demonstration of knowledge acquisition, also known as behaviorism [ertmer1993conductismo]. We observe several reactions among educators, ranging from confusion to prohibition [we could reference the french universities' article here]. 
 
-Yet these abrupt reactions are not just responses to a new tool; they highlight a long-lasting debate about educational models that the appearance of LLMs has only resurfaced. Theories such as cognitivism, constructivism, and connectivism; which respectively emphasize the construction of knowledge through experience and the formation of learning networks [gortaire2022constructivismo] [gutierrez2012conectivismo], have long been challenging the teacher-centered, memoristic model of education. Under these "newer" paradigms of education, the maker community, and fab labs in particular, represent perhaps the most tangible representation of these principles in practice: spaces where learning emerges from making, experimentation, and collaborative problem-solving rather than from passive reception of instructions [gershenfeld2005fab]. In this way, the maker culture does not introduce a new pedagogy, but offers a mature, reference point from which to think about the role that new technologies (LLMs included) can play in education going forward. we choose therefore to see the massive adoption of llms in education (especially among students) not just as a tool change, but as an epistemic change, leaving plenty of room to think beyond isolated tools or "technologies", and onto a root questioning of the educational frameworks that empower learning and making.
+Yet these abrupt reactions are not just responses to a new tool; they highlight a long-lasting debate about educational models that the appearance of LLMs has only resurfaced. Theories such as cognitivism, constructivism, and connectivism; which respectively emphasize the construction of knowledge through experience and the formation of learning networks [gortaire2022constructivismo] [gutierrez2012conectivismo], have long been challenging the teacher-centered, memoristic model of education. Under these "newer" paradigms of education, the maker community, and fab labs in particular, represent perhaps the most tangible representation of these principles in practice: spaces where learning emerges from making, experimentation, and collaborative problem-solving rather than from passive reception of instructions [gershenfeld2005fab]. In this way, the maker culture does not introduce a new pedagogy, but offers a mature, reference point from which to think about the role that LLMs can play in education going forward. 
+
+we choose therefore to see the massive adoption of llms in education (especially among students) not just as a tool change, but as an epistemic change, leaving plenty of room to think beyond isolated tools or "technologies", and onto a root questioning of the educational frameworks that empower learning and making.
 
 [a research question would probably be a good idea here, maybe "What kind of learner do we want to form?" (open enough to leave room for discussion). no. let s put a question like the audio i sent u "what if // why not" based]
 
@@ -94,7 +96,10 @@ In an educational context dominated by friction-free software, defined by the ma
 
 - cognitive effort is pedagogically necessary
 
-"Where is the wisdom we have lost in knowledge? Where is the knowledge we have lost in information?" [eliot1934rock]
+"
+Where is the wisdom we have lost in knowledge? 
+Where is the knowledge we have lost in information?
+" [eliot1934rock]
 
 - efficiency is not always educationally desirable [we could cite again the MIT cognitive debt paper]
 
@@ -148,7 +153,8 @@ assumption mapping [super important, supersuper important anda good way of estab
 system analysis tasks [this could be a positive approach in order to enable and continue the metacognitive as an established map of interconnected aspects which play into the task at handd]
 
 
-## Leaning environments
+## Learning environments
+
 Here we can get into the role of [@jmuozan pls i invoke u again]
 - fabrication spaces
 - interdisciplinary learning
