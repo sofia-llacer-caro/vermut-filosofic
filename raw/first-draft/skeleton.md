@@ -94,6 +94,8 @@ In an educational context dominated by friction-free software, defined by the ma
 
 - cognitive effort is pedagogically necessary
 
+"Where is the wisdom we have lost in knowledge? Where is the knowledge we have lost in information?" [eliot1934rock]
+
 - efficiency is not always educationally desirable [we could cite again the MIT cognitive debt paper]
 
 
@@ -159,6 +161,7 @@ some basic aspect to undestand to go beyond digital shintoism (lol inside joke a
 # CASE STUDIES
 
 ## FP
+Vocational training or Formació Professional (FP) in Catalan/Valencian is a set of educational programs with the goal of enabling individuals to competently practice different professions, providing the necessary training to acquire the professional skills and knowledge specific to each sector. Under this programs, 
 <!--What was implemented-->
 <!--What worked-->
 <!--What failed-->
