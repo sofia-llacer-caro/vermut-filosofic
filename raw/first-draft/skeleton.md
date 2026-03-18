@@ -146,6 +146,7 @@ Once again, we would like to stress the importance of modularity and context sen
 # IMPLEMENTATION IN PRACTICE
 
 ## Pedagogical strategies
+
 opening black boxes --> a step to understanding the tool we are using / to use, along with its limitations, also reflecting about the role we want it to adopt in our learning / epistemic journey
 documenting thinking processes --> a first step for later enablign systems analysis
 structured transparency in AI use --> licensing made by the barcelona fablab, for example [@jmuozan]
@@ -167,7 +168,7 @@ some basic aspect to undestand to go beyond digital shintoism (lol inside joke a
 # CASE STUDIES
 
 ## FP
-Vocational training or Formació Professional (FP) in Catalan/Valencian is a set of educational programs with the goal of enabling individuals to competently practice different professions, providing the necessary training to acquire the professional skills and knowledge specific to each sector. Under this programs, 
+Vocational training or Formació Professional (FP) in Catalan is a set of educational programs with the goal of enabling individuals to competently practice different professions, providing the necessary training to acquire the professional skills and knowledge specific to each sector. Under this programs, 
 <!--What was implemented-->
 <!--What worked-->
 <!--What failed-->

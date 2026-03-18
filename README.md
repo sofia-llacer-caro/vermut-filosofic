@@ -18,6 +18,6 @@ Common space to reflect on critical thinking in relationship to artificial intel
 - [x] The role of friction in learning
 - [x] What is an education framework?
 - [ ] Design principles of the proposed framework (blackboxes part)
-- [ ] Pedagogical strategies
+- [x] Pedagogical strategies
 - [ ] Leaning environments
 - [ ] CASE STUDIES (FP)
