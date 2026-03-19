@@ -20,4 +20,5 @@ Common space to reflect on critical thinking in relationship to artificial intel
 - [ ] Design principles of the proposed framework (blackboxes part)
 - [x] Pedagogical strategies
 - [ ] Leaning environments
+- [ ] Educating educators
 - [ ] CASE STUDIES (FP)
