@@ -19,6 +19,6 @@ Common space to reflect on critical thinking in relationship to artificial intel
 - [x] What is an education framework?
 - [ ] Design principles of the proposed framework (blackboxes part)
 - [x] Pedagogical strategies
-- [ ] Leaning environments
+- [x] Learing environments
 - [ ] Educating educators
 - [ ] CASE STUDIES (FP)

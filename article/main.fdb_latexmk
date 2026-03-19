@@ -1,18 +1,18 @@
 # Fdb version 4
-["biber main"] 1773852398.058 "main.bcf" "main.bbl" "main" 1773910933.74347 2
+["biber main"] 1773852398.058 "main.bcf" "main.bbl" "main" 1773918087.48889 2
   "bibliography.bib" 1773850367.59236 9758 8daf2f1784b19189d0595cf5b7e871cd ""
-  "main.bcf" 1773910933.20982 109242 e4a07af17c9f23455dbb957a08192bf3 "xelatex"
+  "main.bcf" 1773918086.99038 109242 e4a07af17c9f23455dbb957a08192bf3 "xelatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["xdvipdfmx"] 1773910933.2803 "main.xdv" "main.pdf" "main" 1773910933.74543 0
-  "main.xdv" 1773910933.211 305492 e7e19ba5aa52bff43309d28eabeab9e1 "xelatex"
+["xdvipdfmx"] 1773918087.06141 "main.xdv" "main.pdf" "main" 1773918087.49096 0
+  "main.xdv" 1773918086.99161 320748 541c95fb54e6aaae9ec73b89689b953d "xelatex"
   (generated)
   "main.pdf"
   (rewritten before read)
-["xelatex"] 1773910931.27228 "/Users/jorgemuyo/Desktop/vermut-filosofic/article/main.tex" "main.xdv" "main" 1773910933.74368 0
-  "/Users/jorgemuyo/Desktop/vermut-filosofic/article/main.tex" 1773910922.53043 33813 a5f19ddb076852507c16acc055c4e631 ""
+["xelatex"] 1773918085.1854 "/Users/jorgemuyo/Desktop/vermut-filosofic/article/main.tex" "main.xdv" "main" 1773918087.489 0
+  "/Users/jorgemuyo/Desktop/vermut-filosofic/article/main.tex" 1773918076.46101 35334 5575df666d2db815f02e91ac9ff6497b ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy6.tfm" 1246382020 1124 14ccf5552bc7f77ca02a8a402bea8bfb ""
@@ -143,11 +143,11 @@
   "/usr/local/texlive/2025/texmf-dist/web2c/texmf.cnf" 1739380943 42148 61becc7c670cd061bb319c643c27fdd4 ""
   "/usr/local/texlive/2025/texmf-var/web2c/xetex/xelatex.fmt" 1754745604 5639814 31c79ba0eb0206df63f5d7fe4dd4af4f ""
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
-  "main.aux" 1773910933.20152 5591 a0f4808a9d110711429c609954dcdaa9 "xelatex"
+  "main.aux" 1773918086.98133 5591 8056912e335d9230bdbb4a878d5491d4 "xelatex"
   "main.bbl" 1773852400.24819 0 d41d8cd98f00b204e9800998ecf8427e "biber main"
-  "main.out" 1773910933.20832 6186 91310dfab7275c9fb7471d3a0d82efd1 "xelatex"
-  "main.run.xml" 1773910933.21089 2439 80b7f73ca9180ccaba54e7770f5b938c "xelatex"
-  "main.tex" 1773910922.53043 33813 a5f19ddb076852507c16acc055c4e631 ""
+  "main.out" 1773918086.98857 6186 91310dfab7275c9fb7471d3a0d82efd1 "xelatex"
+  "main.run.xml" 1773918086.99148 2439 80b7f73ca9180ccaba54e7770f5b938c "xelatex"
+  "main.tex" 1773918076.46101 35334 5575df666d2db815f02e91ac9ff6497b ""
   (generated)
   "main.aux"
   "main.bcf"
