@@ -20,4 +20,4 @@ Common space to reflect on critical thinking in relationship to artificial intel
 - [x] Pedagogical strategies
 - [x] Learing environments
 - [x] Educating educators
-- [ ] CASE STUDIES (FP)
+- [x] CASE STUDIES (FP)

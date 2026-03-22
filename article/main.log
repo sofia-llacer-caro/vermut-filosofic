@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.8.9)  22 MAR 2026 13:40
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.8.9)  22 MAR 2026 20:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -784,7 +784,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 253--254
 
 [10]
 
-[11] (./main.aux)
+[11]
+
+[12] (./main.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -796,12 +798,12 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 25420 strings out of 473832
- 501679 string characters out of 5729482
- 1345823 words of memory out of 5000000
- 48252 multiletter control sequences out of 15000+600000
+ 25423 strings out of 473832
+ 501808 string characters out of 5729482
+ 1345876 words of memory out of 5000000
+ 48255 multiletter control sequences out of 15000+600000
  563133 words of font info for 60 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 67i,6n,81p,2587b,5567s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 67i,6n,81p,2587b,5565s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.xdv (11 pages, 391376 bytes).
+Output written on main.xdv (12 pages, 415548 bytes).

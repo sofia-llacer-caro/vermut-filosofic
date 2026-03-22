@@ -792,6 +792,38 @@
       \endverb
       \keyw{Design,Gilbert Simondon,Ontology,Philosophy,Technical Mentality}
     \endentry
+    \entry{ward2025}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=46ce9911aa1fe41965da07a96d37d6cc}{%
+           family={Ward},
+           familyi={W\bibinitperiod},
+           given={Jacob},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{46ce9911aa1fe41965da07a96d37d6cc}
+      \strng{fullhash}{46ce9911aa1fe41965da07a96d37d6cc}
+      \strng{fullhashraw}{46ce9911aa1fe41965da07a96d37d6cc}
+      \strng{bibnamehash}{46ce9911aa1fe41965da07a96d37d6cc}
+      \strng{authorbibnamehash}{46ce9911aa1fe41965da07a96d37d6cc}
+      \strng{authornamehash}{46ce9911aa1fe41965da07a96d37d6cc}
+      \strng{authorfullhash}{46ce9911aa1fe41965da07a96d37d6cc}
+      \strng{authorfullhashraw}{46ce9911aa1fe41965da07a96d37d6cc}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{The Lavin Agency, \textit{Lavin Voices}}
+      \field{month}{11}
+      \field{note}{Accessed: 2026-03-22}
+      \field{title}{The Ethics of Artificial Intelligence: Tech Journalist {Jacob Ward} on the Dangers of {AI} and Reclaiming Human Choice}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://thelavinagency.com/the-ethics-of-artificial-intelligence-tech-journalist-jacob-ward-on-the-dangers-of-ai-and-reclaiming-human-choice/
+      \endverb
+      \verb{url}
+      \verb https://thelavinagency.com/the-ethics-of-artificial-intelligence-tech-journalist-jacob-ward-on-the-dangers-of-ai-and-reclaiming-human-choice/
+      \endverb
+    \endentry
   \enddatalist
 \endrefsection
 \endinput
