@@ -7,23 +7,13 @@
 \usepackage{csquotes}
 %\setlength\parindent{24pt}
 \usepackage{siunitx}
-\usepackage{placeins}
 \usepackage[cmyk]{xcolor}
 \usepackage{subcaption}
 \usepackage[justification=centering]{caption}
 \usepackage{amsmath}
-\usepackage{dcolumn}
-\usepackage{bm}
-\usepackage{array}
-\usepackage{physics}
 \usepackage{booktabs}
 \usepackage{graphicx}
-\usepackage{lipsum}
-\usepackage{blindtext}
-\usepackage{float}
-\usepackage{aliascnt}
 \usepackage{listings}
-\usepackage{mhchem}
 \usepackage[colorlinks=True,linkcolor=blue]{hyperref}
 \usepackage[a4paper, total={6in, 9in}]{geometry}
 
@@ -60,40 +50,16 @@
 \title{Fab26}
 \author{Sofia Llàcer Caro \& Jorge Muñoz Zanón}
 \date{\today}
-% question: 2021czarnowska what about those metrics?
+
 \begin{document}
 \maketitle
 
-%for using python and having it aesthetically nice
-\definecolor{codegreen}{rgb}{0,0.6,0}
-\definecolor{codegray}{rgb}{0.5,0.5,0.5}
-\definecolor{codepurple}{rgb}{0.58,0,0.82}
-\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
-
-\lstdefinestyle{mystyle}{
-    backgroundcolor=\color{backcolour},   
-    commentstyle=\color{codegreen},
-    keywordstyle=\color{magenta},
-    numberstyle=\tiny\color{codegray},
-    stringstyle=\color{codepurple},
-    basicstyle=\ttfamily\footnotesize,
-    breakatwhitespace=false,         
-    breaklines=true,                 
-    captionpos=b,                    
-    keepspaces=true,                 
-    numbers=left,                    
-    numbersep=5pt,                  
-    showspaces=false,                
-    showstringspaces=false,
-    showtabs=false,                  
-    tabsize=2
-}
-
-\lstset{style=mystyle}
-
-
 
 \maketitle
+\textit{Once, men turned their thinking over to machines in the hope that this would set them free. But that only permitted other men with machines to enslave them."\\
+"Thou shalt not make a machine in the likeness of a man's mind," % THE PROBLEM HERE THO IS THAT IT S LIKE "DONT MAKE THEM", SO MAYBE WE CAN JUST GET RID OF THE SECOND QUOTE? OTHERWISE IT S KINDA DOOMING
+}\cite{herbert1965dune}
+
 
 \section{INTRODUCTION - THE MOMENT WE ARE IN}
 
@@ -261,21 +227,23 @@ It's worth noting that these exposed proposals are just that, proposals, in orde
 
 \subsection{Learning environments}
 
-Independentment de les estratègies adoptades, resulta de gran importància emfatitzar que garantir una correcta i responsable integració dels LLMs a l'aula, implica una participació de tot el professorat. Just as digital literacy was never solely the responsibility of the informatics teacher, nor was writing the exclusive domain of the language teacher, critical engagement with LLMs belongs across the curriculum. 
+Regardless of the strategies adopted, it is of great importance to emphasize that guaranteeing a correct and responsible integration of LLMs in the classroom implies the participation of all teachers. Just as digital literacy was never solely the responsibility of the informatics teacher, nor was writing the exclusive domain of the language teacher, critical engagement with LLMs belongs across the curriculum. 
 A math teacher discussing the reliability of AI generated responses to a math problem, a history teacher questioning the biases in how an LLM frames a historical event, or a language teacher analyzing why chatbots do not construct sentences correctly in catalan language are situations that through transversal implementation trigger critical inquiry.
 
 This distributed model of engagement can be facilitated via the implementation of project-based and service-based learning environments, where boundaries between disciplines get dissolved around a shared problem or goal. When students work towards a real output, whether a designed object or a community intervention, the question of which tools to use, how to use them, and what their limitations arise organically. Academany programs, based on making, documenting, and iterating display this integration of disciplines by requiring students to be able to formulate questions, confront uncertainty, understand tools and reflect on one's own process. In these environments, no single instructor holds authority over the full range of knowledge required to develop one's own final project, the student must navigate disciplines, ask peers, and test tools in order to get to their goal.
 
-
-
 \subsection{Educating educators}
-It becomes central for teachers to adopt epistemic rather than instrumental understanding of AI: how can educators empower critical thinking over LLMs if they themselves take a "black box" approach to it?
-some basic aspect to undestand to go beyond digital shintoism (lol inside joke about sadin): (i) sttistial aspect of it, (ii) its basic working principles, (iii) whatever else we consider, you know?
+Under this framework, it becomes central for teachers to adopt an epistemic rather than instrumental understanding of AI. Yet existing guidance documents usually fall short in this aspect. As an example, the Catalan Department of Education's guidance on AI in schools \cite{gencat2024ia}, offers a useful starting point, acknowledging that teacher training is an essential element, and that its goal should be to allow educators to make effective use of AI both in their professional tasks and in the classroom. Even though it also explains in general lines the risks of the technology such as bias, excessive trust, and loss of autonomy, its approach remains mainly instrumental, focused on preparing teachers to use and manage AI applications, rather than to properly understand and question them. In order to go further this research wonders how can educators empower critical thinking about LLMs if they themselves take a "black box" approach to the technology?
+
+On this aspect, this research finds technical mentality \cite{benabdallah2024technicalmentality}, extremely useful to ideate what a deeper, non-instrumental understanding of AI might look like in education. Technical mentality proposes that engaging with the inner workings of technical systems is the main condition to develop more critical relationships with technology. It is important to highlight though that this does not mean educators must become experts in the architecture of LLMs, it does mean that teachers should cultivate in their practice a disposition of inquiry towards the technology, critically questioning within their own disciplinarity.
+
+
+%It becomes central for teachers to adopt epistemic rather than instrumental understanding of AI: how can educators empower critical thinking over LLMs if they themselves take a "black box" approach to it? some basic aspect to undestand to go beyond digital shintoism (lol inside joke about sadin): (i) sttistial aspect of it, (ii) its basic working principles, (iii) whatever else we consider, you know?
 
 \section{CASE STUDIES}
 
 \subsection{FP}
-Vocational training or Formació Professional (FP) in Catalan/Valencian is a set of educational programs with the goal of enabling individuals to competently practice different professions, providing the necessary training to acquire the professional skills and knowledge specific to each sector. Under this programs, 
+Vocational training is a set of educational programs with the goal of enabling individuals to competently practice different professions, providing the necessary training to acquire the professional skills and knowledge specific to each sector. Under this programs, 
 <!--What was implemented-->
 <!--What worked-->
 <!--What failed-->
@@ -286,15 +254,21 @@ This was a course on generative artificial intelligence for ONCE, which stands f
 
 Students would receive a short introduction on a technical aspect, for instance around a question like "what's behind a prompt?" as question formulation (see Structure of Critical Thinking Formulation above). This question in particular was formulated as proxy for opening black boxes in particular. As a way to warm up (as well as for the teacher to be aware of the starting point of students), students would be asked to explain briefly through an interactive quiz on the screen. The students seemed to be very motivated by using playful methods (like quizes or roulettes to see who would present next, for instance). Once their preliminary answers were in screen, we would comment a bit on them. They would be asked to volunteer to explain their answers if they felt comfortable with it. This served as a very solid ground to have the student's active participation and attention in order to start the theoretical explanation (for instance on how models are trained with large amounts of uncurated internet data or general analogies on how images are generated in the case of multimodal AI) (see Information in the diagram on critical thinking). Students were encouraged then to, around their project, be creative incorporating the new knowledge in an additional feature. For instance, when it comes to the fybromialgy podcast, one of the students decided to formulate a prompt to create a logo for their project (see Applications in the diagram on critical thinking). Lots of times the result provided by multimodal AI would not be as students expected. They would be asked to explain what they thought the reason for that was, given the information they had learned previously (in the case of the logo for the podcast, for instance, the student mentioned the need to associate language with image. She discussed the limitations of both her knowledge on "the language of images", but also the fact that, since they are two distinct media, to begin with, it could be that it is hard for the model to learn how to connect both). This served as a great example on how applications and experimentation created the grounds to discuss implications and different perspectives on the limitations of these technologies, in this case. This had naturally created a new question formulation in order to continue critical inquiry following the curiosity of students.
 
-%<!--What was implemented-->
-%<!--What worked-->
-%<!--What failed-->
-%<!--What was learned-->
+
+\subsection{Lessons learned}
+% Probably a good idea to come back to a set of sublimation points to go back to the big picture [zoom in --> zoom out]
 
 
+\section{Toward a Pedagogical Playbook}
+% existing approaches + their limitations:
+% loads of educators putting efforts into reinventing the way we teach and learn and the role of AI in it (including us)--> let's put a bit of structure and see what we can learn from each other! [playbook]
 
+% evolving documentation, shared practices, community-driven experimentation, open educational resources
 
+% fab26 as a great opportunity to start it off! [even though maybe it's strange to say this here? idk]
 
+\section{Conclusion}
+% sort of like "moral of the story"
 
 
 %--------------------
@@ -307,6 +281,12 @@ Students would receive a short introduction on a technical aspect, for instance 
 
 \newpage
 \printbibliography
+
+\section*{Appendix}
+\subsection*{transparency statement about AI use}
+\subsection*{licensing}
+\subsection*{repository?}
+
 \end{document}
 
 \newpage

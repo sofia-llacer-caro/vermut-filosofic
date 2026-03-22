@@ -17,8 +17,7 @@ Common space to reflect on critical thinking in relationship to artificial intel
 - [x] The present - technology as instrument
 - [x] The role of friction in learning
 - [x] What is an education framework?
-- [ ] Design principles of the proposed framework (blackboxes part)
 - [x] Pedagogical strategies
 - [x] Learing environments
-- [ ] Educating educators
+- [x] Educating educators
 - [ ] CASE STUDIES (FP)

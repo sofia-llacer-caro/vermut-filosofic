@@ -2373,26 +2373,29 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">bibliography.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1" intorder="1">chatgptrelease</bcf:citekey>
-    <bcf:citekey order="2" intorder="1">ertmer1993conductismo</bcf:citekey>
-    <bcf:citekey order="3" intorder="1">gortaire2022constructivismo</bcf:citekey>
-    <bcf:citekey order="4" intorder="1">gutierrez2012conectivismo</bcf:citekey>
-    <bcf:citekey order="5" intorder="1">gershenfeld2005fab</bcf:citekey>
-    <bcf:citekey order="6" intorder="1">sola1980educacio</bcf:citekey>
-    <bcf:citekey order="7" intorder="1">tawil2013</bcf:citekey>
-    <bcf:citekey order="8" intorder="1">rodriguez2014aprender</bcf:citekey>
-    <bcf:citekey order="9" intorder="1">KITCHENER198189</bcf:citekey>
+    <bcf:citekey order="1" intorder="1">herbert1965dune</bcf:citekey>
+    <bcf:citekey order="2" intorder="1">chatgptrelease</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">ertmer1993conductismo</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">gortaire2022constructivismo</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">gutierrez2012conectivismo</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">gershenfeld2005fab</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">sola1980educacio</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">tawil2013</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">rodriguez2014aprender</bcf:citekey>
     <bcf:citekey order="10" intorder="1">KITCHENER198189</bcf:citekey>
-    <bcf:citekey order="11" intorder="1">kosmyna2025brainchatgptaccumulationcognitive</bcf:citekey>
-    <bcf:citekey order="12" intorder="1">godwin1818fables</bcf:citekey>
-    <bcf:citekey order="13" intorder="1">sennett2019construir</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">KITCHENER198189</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">kosmyna2025brainchatgptaccumulationcognitive</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">godwin1818fables</bcf:citekey>
     <bcf:citekey order="14" intorder="1">sennett2019construir</bcf:citekey>
-    <bcf:citekey order="15" intorder="1">freire1998pedagogy</bcf:citekey>
-    <bcf:citekey order="16" intorder="1">sennett2008craftsman</bcf:citekey>
-    <bcf:citekey order="17" intorder="1">eliot1934rock</bcf:citekey>
-    <bcf:citekey order="18" intorder="1">grant2014understanding</bcf:citekey>
-    <bcf:citekey order="19" intorder="1">vygotsky1978mind</bcf:citekey>
-    <bcf:citekey order="20" intorder="1">fuentemilla2024ccl</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">sennett2019construir</bcf:citekey>
+    <bcf:citekey order="16" intorder="1">freire1998pedagogy</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">sennett2008craftsman</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">eliot1934rock</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">grant2014understanding</bcf:citekey>
+    <bcf:citekey order="20" intorder="1">vygotsky1978mind</bcf:citekey>
+    <bcf:citekey order="21" intorder="1">fuentemilla2024ccl</bcf:citekey>
+    <bcf:citekey order="22" intorder="1">gencat2024ia</bcf:citekey>
+    <bcf:citekey order="23" intorder="1">benabdallah2024technicalmentality</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

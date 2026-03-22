@@ -1,0 +1,798 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{herbert1965dune}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=4d4da37db0b5b657d9fee9c1d67adc5d}{%
+           family={Herbert},
+           familyi={H\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Philadelphia}%
+      }
+      \list{publisher}{1}{%
+        {Chilton Books}%
+      }
+      \strng{namehash}{4d4da37db0b5b657d9fee9c1d67adc5d}
+      \strng{fullhash}{4d4da37db0b5b657d9fee9c1d67adc5d}
+      \strng{fullhashraw}{4d4da37db0b5b657d9fee9c1d67adc5d}
+      \strng{bibnamehash}{4d4da37db0b5b657d9fee9c1d67adc5d}
+      \strng{authorbibnamehash}{4d4da37db0b5b657d9fee9c1d67adc5d}
+      \strng{authornamehash}{4d4da37db0b5b657d9fee9c1d67adc5d}
+      \strng{authorfullhash}{4d4da37db0b5b657d9fee9c1d67adc5d}
+      \strng{authorfullhashraw}{4d4da37db0b5b657d9fee9c1d67adc5d}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{First edition}
+      \field{title}{Dune}
+      \field{year}{1965}
+    \endentry
+    \entry{chatgptrelease}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=b23bbdc50c9ceb49f9ce6ea39af5c87b}{%
+           family={Roumeliotis},
+           familyi={R\bibinitperiod},
+           given={Konstantinos\bibnamedelima I.},
+           giveni={K\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=b55c18e82ef1e6d3471d035a3d3627d9}{%
+           family={Tselikas},
+           familyi={T\bibinitperiod},
+           given={Nikolaos\bibnamedelima D.},
+           giveni={N\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{eb86a4af2aff088797157db74fbe1420}
+      \strng{fullhash}{eb86a4af2aff088797157db74fbe1420}
+      \strng{fullhashraw}{eb86a4af2aff088797157db74fbe1420}
+      \strng{bibnamehash}{eb86a4af2aff088797157db74fbe1420}
+      \strng{authorbibnamehash}{eb86a4af2aff088797157db74fbe1420}
+      \strng{authornamehash}{eb86a4af2aff088797157db74fbe1420}
+      \strng{authorfullhash}{eb86a4af2aff088797157db74fbe1420}
+      \strng{authorfullhashraw}{eb86a4af2aff088797157db74fbe1420}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{According to numerous reports, ChatGPT represents a significant breakthrough in the field of artificial intelligence. ChatGPT is a pre-trained AI model designed to engage in natural language conversations, utilizing sophisticated techniques from Natural Language Processing (NLP), Supervised Learning, and Reinforcement Learning to comprehend and generate text comparable to human-generated text. This article provides an overview of the training process and fundamental functionality of ChatGPT, accompanied by a preliminary review of the relevant literature. Notably, this article presents the first comprehensive literature review of this technology at the time of publication, aiming to aggregate all the available pertinent articles to facilitate further developments in the field. Ultimately, the authors aim to offer an appraisal of the technology’s potential implications on existing knowledge and technology, along with potential challenges that must be addressed.}
+      \field{issn}{1999-5903}
+      \field{journaltitle}{Future Internet}
+      \field{number}{6}
+      \field{title}{ChatGPT and Open-AI Models: A Preliminary Review}
+      \field{volume}{15}
+      \field{year}{2023}
+      \verb{doi}
+      \verb 10.3390/fi15060192
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/1999-5903/15/6/192
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/1999-5903/15/6/192
+      \endverb
+    \endentry
+    \entry{ertmer1993conductismo}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=5fffa9c6432284b68eedad563cb81585}{%
+           family={Ertmer},
+           familyi={E\bibinitperiod},
+           given={Peggy},
+           giveni={P\bibinitperiod}}}%
+        {{hash=257505f082d684dceff7d8e68af8b5af}{%
+           family={Newby},
+           familyi={N\bibinitperiod},
+           given={Timothy},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{0ca186e4568748d70dabc6efb15eecbb}
+      \strng{fullhash}{0ca186e4568748d70dabc6efb15eecbb}
+      \strng{fullhashraw}{0ca186e4568748d70dabc6efb15eecbb}
+      \strng{bibnamehash}{0ca186e4568748d70dabc6efb15eecbb}
+      \strng{authorbibnamehash}{0ca186e4568748d70dabc6efb15eecbb}
+      \strng{authornamehash}{0ca186e4568748d70dabc6efb15eecbb}
+      \strng{authorfullhash}{0ca186e4568748d70dabc6efb15eecbb}
+      \strng{authorfullhashraw}{0ca186e4568748d70dabc6efb15eecbb}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Performance Improvement Quarterly}
+      \field{number}{4}
+      \field{title}{Conductismo, cognitivismo y constructivismo: una comparación de los aspectos críticos desde la perspectiva del diseño de la instrucción}
+      \field{volume}{6}
+      \field{year}{1993}
+      \field{pages}{50\bibrangedash 72}
+      \range{pages}{23}
+    \endentry
+    \entry{gortaire2022constructivismo}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=cb914f688e34333f224c0c5f71458385}{%
+           family={Gortaire\bibnamedelima Díaz},
+           familyi={G\bibinitperiod\bibinitdelim D\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=0920361ee5ab888001b2d82870608d49}{%
+           family={Beltrán\bibnamedelima Moreno},
+           familyi={B\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=166eabeef16d324fdb500930974d9fad}{%
+           family={Mora\bibnamedelima Herrera},
+           familyi={M\bibinitperiod\bibinitdelim H\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=6855b3573ba39dab20784dbdfa191c24}{%
+           family={Reasco\bibnamedelima Garzón},
+           familyi={R\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=cc8e7075cf5cf41a67dcc91288613d9f}{%
+           family={Rodríguez\bibnamedelima Torres},
+           familyi={R\bibinitperiod\bibinitdelim T\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{17eb0c1a62836ef988136793e05f2784}
+      \strng{fullhash}{b80e2e57736938e0990b1a9e27e03cdb}
+      \strng{fullhashraw}{b80e2e57736938e0990b1a9e27e03cdb}
+      \strng{bibnamehash}{b80e2e57736938e0990b1a9e27e03cdb}
+      \strng{authorbibnamehash}{b80e2e57736938e0990b1a9e27e03cdb}
+      \strng{authornamehash}{17eb0c1a62836ef988136793e05f2784}
+      \strng{authorfullhash}{b80e2e57736938e0990b1a9e27e03cdb}
+      \strng{authorfullhashraw}{b80e2e57736938e0990b1a9e27e03cdb}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ciencia Latina Revista Científica Multidisciplinar}
+      \field{number}{6}
+      \field{title}{Constructivismo y conectivismo como métodos de enseñanza y aprendizaje en la educación universitaria actual}
+      \field{volume}{6}
+      \field{year}{2022}
+      \field{pages}{14046\bibrangedash 14058}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.37811/cl_rcm.v7i1.4672
+      \endverb
+    \endentry
+    \entry{gutierrez2012conectivismo}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=bc6028e2e4567db6ff7e8b2d5240b814}{%
+           family={Gutiérrez},
+           familyi={G\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{bc6028e2e4567db6ff7e8b2d5240b814}
+      \strng{fullhash}{bc6028e2e4567db6ff7e8b2d5240b814}
+      \strng{fullhashraw}{bc6028e2e4567db6ff7e8b2d5240b814}
+      \strng{bibnamehash}{bc6028e2e4567db6ff7e8b2d5240b814}
+      \strng{authorbibnamehash}{bc6028e2e4567db6ff7e8b2d5240b814}
+      \strng{authornamehash}{bc6028e2e4567db6ff7e8b2d5240b814}
+      \strng{authorfullhash}{bc6028e2e4567db6ff7e8b2d5240b814}
+      \strng{authorfullhashraw}{bc6028e2e4567db6ff7e8b2d5240b814}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista de Educación y Tecnología}
+      \field{number}{1}
+      \field{title}{Conectivismo como teoría de aprendizaje: conceptos, ideas y posibles limitaciones}
+      \field{year}{2012}
+      \field{pages}{111\bibrangedash 122}
+      \range{pages}{12}
+    \endentry
+    \entry{gershenfeld2005fab}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=113a59d98dd032dc5604a9b82a5700b9}{%
+           family={Gershenfeld},
+           familyi={G\bibinitperiod},
+           given={Neil},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Basic Books}%
+      }
+      \strng{namehash}{113a59d98dd032dc5604a9b82a5700b9}
+      \strng{fullhash}{113a59d98dd032dc5604a9b82a5700b9}
+      \strng{fullhashraw}{113a59d98dd032dc5604a9b82a5700b9}
+      \strng{bibnamehash}{113a59d98dd032dc5604a9b82a5700b9}
+      \strng{authorbibnamehash}{113a59d98dd032dc5604a9b82a5700b9}
+      \strng{authornamehash}{113a59d98dd032dc5604a9b82a5700b9}
+      \strng{authorfullhash}{113a59d98dd032dc5604a9b82a5700b9}
+      \strng{authorfullhashraw}{113a59d98dd032dc5604a9b82a5700b9}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Fab: The Coming Revolution on Your Desktop--From Personal Computers to Personal Fabrication}
+      \field{year}{2005}
+    \endentry
+    \entry{sola1980educacio}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=2fbce0a37097b6b8313164bf70115fcc}{%
+           family={Solà},
+           familyi={S\bibinitperiod},
+           given={Pere},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Barcelona}%
+      }
+      \list{publisher}{1}{%
+        {Edicions 62}%
+      }
+      \strng{namehash}{2fbce0a37097b6b8313164bf70115fcc}
+      \strng{fullhash}{2fbce0a37097b6b8313164bf70115fcc}
+      \strng{fullhashraw}{2fbce0a37097b6b8313164bf70115fcc}
+      \strng{bibnamehash}{2fbce0a37097b6b8313164bf70115fcc}
+      \strng{authorbibnamehash}{2fbce0a37097b6b8313164bf70115fcc}
+      \strng{authornamehash}{2fbce0a37097b6b8313164bf70115fcc}
+      \strng{authorfullhash}{2fbce0a37097b6b8313164bf70115fcc}
+      \strng{authorfullhashraw}{2fbce0a37097b6b8313164bf70115fcc}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Educació i moviment llibertari a Catalunya (1901--1939)}
+      \field{year}{1980}
+      \field{pages}{197}
+      \range{pages}{1}
+    \endentry
+    \entry{tawil2013}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=23a46ddea848de44b0294023c2e333be}{%
+           family={Tawil},
+           familyi={T\bibinitperiod},
+           given={Sobhi},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{23a46ddea848de44b0294023c2e333be}
+      \strng{fullhash}{23a46ddea848de44b0294023c2e333be}
+      \strng{fullhashraw}{23a46ddea848de44b0294023c2e333be}
+      \strng{bibnamehash}{23a46ddea848de44b0294023c2e333be}
+      \strng{authorbibnamehash}{23a46ddea848de44b0294023c2e333be}
+      \strng{authornamehash}{23a46ddea848de44b0294023c2e333be}
+      \strng{authorfullhash}{23a46ddea848de44b0294023c2e333be}
+      \strng{authorfullhashraw}{23a46ddea848de44b0294023c2e333be}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ERF Occasional Papers}
+      \field{month}{01}
+      \field{title}{Revisiting 'Learning: The Treasure Within': Assessing the influence of the 1996 Delors Report}
+      \field{year}{2013}
+    \endentry
+    \entry{rodriguez2014aprender}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=3a578009d3e732a82e47c1842954db0e}{%
+           family={Rodríguez\bibnamedelima García},
+           familyi={R\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Ana\bibnamedelima Belén},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=abbe6a8322a0bd01410e822710e0a62e}{%
+           family={Ramírez\bibnamedelima López},
+           familyi={R\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={Luis\bibnamedelima Javier},
+           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{981756edf308e70395b3a1e137fbfb79}
+      \strng{fullhash}{981756edf308e70395b3a1e137fbfb79}
+      \strng{fullhashraw}{981756edf308e70395b3a1e137fbfb79}
+      \strng{bibnamehash}{981756edf308e70395b3a1e137fbfb79}
+      \strng{authorbibnamehash}{981756edf308e70395b3a1e137fbfb79}
+      \strng{authornamehash}{981756edf308e70395b3a1e137fbfb79}
+      \strng{authorfullhash}{981756edf308e70395b3a1e137fbfb79}
+      \strng{authorfullhashraw}{981756edf308e70395b3a1e137fbfb79}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista Academia y Virtualidad}
+      \field{number}{2}
+      \field{title}{Aprender haciendo-investigar reflexionando: caso de estudio paralelo en Colombia y Chile}
+      \field{volume}{7}
+      \field{year}{2014}
+      \field{pages}{53}
+      \range{pages}{1}
+    \endentry
+    \entry{KITCHENER198189}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=5b859adfa1c21706c630bc2a0f6bf7ad}{%
+           family={Kitchener},
+           familyi={K\bibinitperiod},
+           given={Karen\bibnamedelima Strohm},
+           giveni={K\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=b5c632f09ae1b68920d54f5c673eb628}{%
+           family={King},
+           familyi={K\bibinitperiod},
+           given={Patricia\bibnamedelima M.},
+           giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{b2f1df48fceeeb56868896b77b21195d}
+      \strng{fullhash}{b2f1df48fceeeb56868896b77b21195d}
+      \strng{fullhashraw}{b2f1df48fceeeb56868896b77b21195d}
+      \strng{bibnamehash}{b2f1df48fceeeb56868896b77b21195d}
+      \strng{authorbibnamehash}{b2f1df48fceeeb56868896b77b21195d}
+      \strng{authornamehash}{b2f1df48fceeeb56868896b77b21195d}
+      \strng{authorfullhash}{b2f1df48fceeeb56868896b77b21195d}
+      \strng{authorfullhashraw}{b2f1df48fceeeb56868896b77b21195d}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper describes a seven-stage model of post-adolescent reasoning styles, the most advanced of which is called “Reflective Judgment.” The model outlines a sequence of increasingly complex methods of justification of beliefs. This model demonstrates how people's conceptions of the nature of knowledge, the nature of reality, and their concepts of justification change over age/educational levels. Sixty subjects from three age/educational levels (high school, college, and graduate school) were administered the Reflective Judgment Interview. In addition, subjects were tested on four other factors hypothesized to affect reflective judgment scores. Two were competing theoretical constructs: verbal ability (using Terman's Concept Mastery Test) and Piagetian formal operations (chemicals and pendulum tasks); and two were potentially confounding factors: socio-economic status (using Hollingshead's two-factor index) and verbal fluency (number of words spoken during the interview). Highly significant differences (p < .001) were found on reflective judgment level between the three age/educational groups, and could not be statistically accounted for by scores earned on measures of the other four factors. Whereas verbal ability was found to be closely related to reflective judgment level, the differences between groups on reflective judgment could not be solely attributed to this factor.}
+      \field{issn}{0193-3973}
+      \field{journaltitle}{Journal of Applied Developmental Psychology}
+      \field{number}{2}
+      \field{title}{Reflective judgment: Concepts of justification and their relationship to age and education}
+      \field{volume}{2}
+      \field{year}{1981}
+      \field{pages}{89\bibrangedash 116}
+      \range{pages}{28}
+      \verb{doi}
+      \verb https://doi.org/10.1016/0193-3973(81)90032-0
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/0193397381900320
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/0193397381900320
+      \endverb
+    \endentry
+    \entry{kosmyna2025brainchatgptaccumulationcognitive}{misc}{}{}
+      \name{author}{8}{}{%
+        {{hash=53ec5edcaef01649204223724641c783}{%
+           family={Kosmyna},
+           familyi={K\bibinitperiod},
+           given={Nataliya},
+           giveni={N\bibinitperiod}}}%
+        {{hash=a679b43421d3216191fea3ac8d36d439}{%
+           family={Hauptmann},
+           familyi={H\bibinitperiod},
+           given={Eugene},
+           giveni={E\bibinitperiod}}}%
+        {{hash=9008fcd97b334b6f0db1632640999e4c}{%
+           family={Yuan},
+           familyi={Y\bibinitperiod},
+           given={Ye\bibnamedelima Tong},
+           giveni={Y\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=bb106fd4d04eee587aad75f44ce5babf}{%
+           family={Situ},
+           familyi={S\bibinitperiod},
+           given={Jessica},
+           giveni={J\bibinitperiod}}}%
+        {{hash=3af73ff3c25c16040c7e5cd881c533e4}{%
+           family={Liao},
+           familyi={L\bibinitperiod},
+           given={Xian-Hao},
+           giveni={X\bibinithyphendelim H\bibinitperiod}}}%
+        {{hash=41dc9ebd752449a9114531551bfb95a8}{%
+           family={Beresnitzky},
+           familyi={B\bibinitperiod},
+           given={Ashly\bibnamedelima Vivian},
+           giveni={A\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=323cb2f438e0758f2c3ad7e14eb2a934}{%
+           family={Braunstein},
+           familyi={B\bibinitperiod},
+           given={Iris},
+           giveni={I\bibinitperiod}}}%
+        {{hash=2f8f33c85296fc648721ff66ab814d0a}{%
+           family={Maes},
+           familyi={M\bibinitperiod},
+           given={Pattie},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{8f42cde267b440e3782db35a970259d2}
+      \strng{fullhash}{d4d3b9e7c37126916dabbbb7bb9f191e}
+      \strng{fullhashraw}{d4d3b9e7c37126916dabbbb7bb9f191e}
+      \strng{bibnamehash}{8f42cde267b440e3782db35a970259d2}
+      \strng{authorbibnamehash}{8f42cde267b440e3782db35a970259d2}
+      \strng{authornamehash}{8f42cde267b440e3782db35a970259d2}
+      \strng{authorfullhash}{d4d3b9e7c37126916dabbbb7bb9f191e}
+      \strng{authorfullhashraw}{d4d3b9e7c37126916dabbbb7bb9f191e}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{cs.AI}
+      \field{eprinttype}{arXiv}
+      \field{title}{Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task}
+      \field{year}{2025}
+      \verb{eprint}
+      \verb 2506.08872
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2506.08872
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2506.08872
+      \endverb
+    \endentry
+    \entry{godwin1818fables}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=7fae44eacc4b26f21b9a5537ab7401e2}{%
+           family={Godwin},
+           familyi={G\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Philadelphia}%
+      }
+      \list{publisher}{1}{%
+        {Benjamin Warner}%
+      }
+      \strng{namehash}{7fae44eacc4b26f21b9a5537ab7401e2}
+      \strng{fullhash}{7fae44eacc4b26f21b9a5537ab7401e2}
+      \strng{fullhashraw}{7fae44eacc4b26f21b9a5537ab7401e2}
+      \strng{bibnamehash}{7fae44eacc4b26f21b9a5537ab7401e2}
+      \strng{authorbibnamehash}{7fae44eacc4b26f21b9a5537ab7401e2}
+      \strng{authornamehash}{7fae44eacc4b26f21b9a5537ab7401e2}
+      \strng{authorfullhash}{7fae44eacc4b26f21b9a5537ab7401e2}
+      \strng{authorfullhashraw}{7fae44eacc4b26f21b9a5537ab7401e2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{Second American}
+      \field{title}{Fables, Ancient and Modern: Adapted for the Use of Children}
+      \field{year}{1818}
+    \endentry
+    \entry{sennett2019construir}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=f422e0e7493ad006df285099a45aaf6e}{%
+           family={Sennett},
+           familyi={S\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod}}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=dad7697cd53fa4a43d259cacb23ebb95}{%
+           family={Llisterri},
+           familyi={L\bibinitperiod},
+           given={Anna},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Barcelona}%
+      }
+      \list{publisher}{1}{%
+        {Arcàdia}%
+      }
+      \strng{namehash}{f422e0e7493ad006df285099a45aaf6e}
+      \strng{fullhash}{f422e0e7493ad006df285099a45aaf6e}
+      \strng{fullhashraw}{f422e0e7493ad006df285099a45aaf6e}
+      \strng{bibnamehash}{f422e0e7493ad006df285099a45aaf6e}
+      \strng{authorbibnamehash}{f422e0e7493ad006df285099a45aaf6e}
+      \strng{authornamehash}{f422e0e7493ad006df285099a45aaf6e}
+      \strng{authorfullhash}{f422e0e7493ad006df285099a45aaf6e}
+      \strng{authorfullhashraw}{f422e0e7493ad006df285099a45aaf6e}
+      \strng{translatorbibnamehash}{dad7697cd53fa4a43d259cacb23ebb95}
+      \strng{translatornamehash}{dad7697cd53fa4a43d259cacb23ebb95}
+      \strng{translatorfullhash}{dad7697cd53fa4a43d259cacb23ebb95}
+      \strng{translatorfullhashraw}{dad7697cd53fa4a43d259cacb23ebb95}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Translated from the English \textit{Building and Dwelling: Ethics for the City} (2018)}
+      \field{title}{Construir i habitar: Ètica per a la ciutat}
+      \field{year}{2019}
+    \endentry
+    \entry{freire1998pedagogy}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=3186dc3eb3ef8c53974ac139b2b332f6}{%
+           family={Freire},
+           familyi={F\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Bloomsbury Academic}%
+      }
+      \strng{namehash}{3186dc3eb3ef8c53974ac139b2b332f6}
+      \strng{fullhash}{3186dc3eb3ef8c53974ac139b2b332f6}
+      \strng{fullhashraw}{3186dc3eb3ef8c53974ac139b2b332f6}
+      \strng{bibnamehash}{3186dc3eb3ef8c53974ac139b2b332f6}
+      \strng{authorbibnamehash}{3186dc3eb3ef8c53974ac139b2b332f6}
+      \strng{authornamehash}{3186dc3eb3ef8c53974ac139b2b332f6}
+      \strng{authorfullhash}{3186dc3eb3ef8c53974ac139b2b332f6}
+      \strng{authorfullhashraw}{3186dc3eb3ef8c53974ac139b2b332f6}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780847690473}
+      \field{series}{Critical Perspectives Series: A Book Series Dedicated to Paulo Freire}
+      \field{title}{Pedagogy of Freedom: Ethics, Democracy, and Civic Courage}
+      \field{year}{1998}
+    \endentry
+    \entry{sennett2008craftsman}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=f422e0e7493ad006df285099a45aaf6e}{%
+           family={Sennett},
+           familyi={S\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Penguin Books}%
+      }
+      \strng{namehash}{f422e0e7493ad006df285099a45aaf6e}
+      \strng{fullhash}{f422e0e7493ad006df285099a45aaf6e}
+      \strng{fullhashraw}{f422e0e7493ad006df285099a45aaf6e}
+      \strng{bibnamehash}{f422e0e7493ad006df285099a45aaf6e}
+      \strng{authorbibnamehash}{f422e0e7493ad006df285099a45aaf6e}
+      \strng{authornamehash}{f422e0e7493ad006df285099a45aaf6e}
+      \strng{authorfullhash}{f422e0e7493ad006df285099a45aaf6e}
+      \strng{authorfullhashraw}{f422e0e7493ad006df285099a45aaf6e}
+      \field{extraname}{2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Craftsman}
+      \field{year}{2009}
+    \endentry
+    \entry{eliot1934rock}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=f420fb4fe067cc0f5282c19ae4ddc535}{%
+           family={Eliot},
+           familyi={E\bibinitperiod},
+           given={Thomas\bibnamedelima Stearns},
+           giveni={T\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{2}{%
+        {Harcourt, Brace}%
+        {Company}%
+      }
+      \strng{namehash}{f420fb4fe067cc0f5282c19ae4ddc535}
+      \strng{fullhash}{f420fb4fe067cc0f5282c19ae4ddc535}
+      \strng{fullhashraw}{f420fb4fe067cc0f5282c19ae4ddc535}
+      \strng{bibnamehash}{f420fb4fe067cc0f5282c19ae4ddc535}
+      \strng{authorbibnamehash}{f420fb4fe067cc0f5282c19ae4ddc535}
+      \strng{authornamehash}{f420fb4fe067cc0f5282c19ae4ddc535}
+      \strng{authorfullhash}{f420fb4fe067cc0f5282c19ae4ddc535}
+      \strng{authorfullhashraw}{f420fb4fe067cc0f5282c19ae4ddc535}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{1}
+      \field{note}{Written on behalf of the Forty-Five Churches Fund of the Diocese of London, 28 May -- 9 June 1934}
+      \field{title}{The Rock: A Pageant Play, Written for Performance at Sadler's Wells Theatre}
+      \field{year}{1934}
+    \endentry
+    \entry{grant2014understanding}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=76ad0e111db80c1176070dc997fef0ad}{%
+           family={Grant},
+           familyi={G\bibinitperiod},
+           given={Cynthia},
+           giveni={C\bibinitperiod}}}%
+        {{hash=2a1a8e056094a013f33a8b47f4a393e9}{%
+           family={Osanloo},
+           familyi={O\bibinitperiod},
+           given={Azadeh},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{24e9f65fe4f75482bfaec0d345d8bdb8}
+      \strng{fullhash}{24e9f65fe4f75482bfaec0d345d8bdb8}
+      \strng{fullhashraw}{24e9f65fe4f75482bfaec0d345d8bdb8}
+      \strng{bibnamehash}{24e9f65fe4f75482bfaec0d345d8bdb8}
+      \strng{authorbibnamehash}{24e9f65fe4f75482bfaec0d345d8bdb8}
+      \strng{authornamehash}{24e9f65fe4f75482bfaec0d345d8bdb8}
+      \strng{authorfullhash}{24e9f65fe4f75482bfaec0d345d8bdb8}
+      \strng{authorfullhashraw}{24e9f65fe4f75482bfaec0d345d8bdb8}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Administrative Issues Journal: Connecting Education, Practice, and Research}
+      \field{number}{2}
+      \field{title}{Understanding, Selecting, and Integrating a Theoretical Framework in Dissertation Research: Creating the Blueprint for Your ``House''}
+      \field{volume}{4}
+      \field{year}{2014}
+      \field{pages}{12\bibrangedash 26}
+      \range{pages}{15}
+    \endentry
+    \entry{vygotsky1978mind}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=ea19e4d26a75e62caddfee7394a5c042}{%
+           family={Vygotsky},
+           familyi={V\bibinitperiod},
+           given={Lev\bibnamedelima S.},
+           giveni={L\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=f836c33e0dcf22df1d62bece91771bcb}{%
+           family={Cole},
+           familyi={C\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e94ced1405f1a7b21a38e613ff6c9c1c}{%
+           family={John-Steiner},
+           familyi={J\bibinithyphendelim S\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+        {{hash=843a1c66bcee92af2c695ca6ed0524d5}{%
+           family={Scribner},
+           familyi={S\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=69976f56ceee280480c8a66ae1920516}{%
+           family={Souberman},
+           familyi={S\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Harvard University Press}%
+      }
+      \strng{namehash}{ea19e4d26a75e62caddfee7394a5c042}
+      \strng{fullhash}{ea19e4d26a75e62caddfee7394a5c042}
+      \strng{fullhashraw}{ea19e4d26a75e62caddfee7394a5c042}
+      \strng{bibnamehash}{ea19e4d26a75e62caddfee7394a5c042}
+      \strng{authorbibnamehash}{ea19e4d26a75e62caddfee7394a5c042}
+      \strng{authornamehash}{ea19e4d26a75e62caddfee7394a5c042}
+      \strng{authorfullhash}{ea19e4d26a75e62caddfee7394a5c042}
+      \strng{authorfullhashraw}{ea19e4d26a75e62caddfee7394a5c042}
+      \strng{editorbibnamehash}{c4e42b83ca4a50b6af6a29ada35ed98d}
+      \strng{editornamehash}{ce827064450837943d00337bfb9406e7}
+      \strng{editorfullhash}{c4e42b83ca4a50b6af6a29ada35ed98d}
+      \strng{editorfullhashraw}{c4e42b83ca4a50b6af6a29ada35ed98d}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Mind in Society: Development of Higher Psychological Processes}
+      \field{year}{1978}
+      \verb{doi}
+      \verb 10.2307/j.ctvjf9vz4
+      \endverb
+    \endentry
+    \entry{fuentemilla2024ccl}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=9fc2e8db037e5b07dfdcf7bbc5f240d6}{%
+           family={Fuentemilla},
+           familyi={F\bibinitperiod},
+           given={Santi},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{9fc2e8db037e5b07dfdcf7bbc5f240d6}
+      \strng{fullhash}{9fc2e8db037e5b07dfdcf7bbc5f240d6}
+      \strng{fullhashraw}{9fc2e8db037e5b07dfdcf7bbc5f240d6}
+      \strng{bibnamehash}{9fc2e8db037e5b07dfdcf7bbc5f240d6}
+      \strng{authorbibnamehash}{9fc2e8db037e5b07dfdcf7bbc5f240d6}
+      \strng{authornamehash}{9fc2e8db037e5b07dfdcf7bbc5f240d6}
+      \strng{authorfullhash}{9fc2e8db037e5b07dfdcf7bbc5f240d6}
+      \strng{authorfullhashraw}{9fc2e8db037e5b07dfdcf7bbc5f240d6}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://santifu.github.io/ccl/}}
+      \field{note}{Fab Lab Barcelona. Licensed under CC BY-NC-SA 4.0. Accessed: March 18, 2026}
+      \field{title}{Cognitive Contribution Label {V1.1}}
+      \field{year}{2024}
+    \endentry
+    \entry{gencat2024ia}{report}{}{}
+      \name{author}{1}{}{%
+        {{hash=2e6e6fa56493c49e3bd1172683d0f38d}{%
+           family={{Generalitat de Catalunya. Departament d'Educació}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Direcció General d'Innovació, Digitalització i Currículum}%
+      }
+      \list{location}{1}{%
+        {Catalunya}%
+      }
+      \strng{namehash}{2e6e6fa56493c49e3bd1172683d0f38d}
+      \strng{fullhash}{2e6e6fa56493c49e3bd1172683d0f38d}
+      \strng{fullhashraw}{2e6e6fa56493c49e3bd1172683d0f38d}
+      \strng{bibnamehash}{2e6e6fa56493c49e3bd1172683d0f38d}
+      \strng{authorbibnamehash}{2e6e6fa56493c49e3bd1172683d0f38d}
+      \strng{authornamehash}{2e6e6fa56493c49e3bd1172683d0f38d}
+      \strng{authorfullhash}{2e6e6fa56493c49e3bd1172683d0f38d}
+      \strng{authorfullhashraw}{2e6e6fa56493c49e3bd1172683d0f38d}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{2}
+      \field{note}{Accessed: March 20, 2026}
+      \field{title}{La intel·ligència artificial en l'educació: Orientacions i recomanacions per al seu ús als centres}
+      \field{type}{Monografia}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://educacio.gencat.cat/web/.content/home/departament/publicacions/monografies/mon-digital/intelligencia-artificial-educacio/ia-educacio.pdf
+      \endverb
+      \verb{url}
+      \verb https://educacio.gencat.cat/web/.content/home/departament/publicacions/monografies/mon-digital/intelligencia-artificial-educacio/ia-educacio.pdf
+      \endverb
+    \endentry
+    \entry{benabdallah2024technicalmentality}{inproceedings}{}{}
+      \name{author}{2}{}{%
+        {{hash=46ae10db768eb78ee9aee8753f3dfadf}{%
+           family={Benabdallah},
+           familyi={B\bibinitperiod},
+           given={Gabrielle},
+           giveni={G\bibinitperiod}}}%
+        {{hash=999b07d318db06b8e59b8c0278a5fc1c}{%
+           family={Peek},
+           familyi={P\bibinitperiod},
+           given={Nadya},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Honolulu, HI, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{374473e59dc2f169e37038f883e11507}
+      \strng{fullhash}{374473e59dc2f169e37038f883e11507}
+      \strng{fullhashraw}{374473e59dc2f169e37038f883e11507}
+      \strng{bibnamehash}{374473e59dc2f169e37038f883e11507}
+      \strng{authorbibnamehash}{374473e59dc2f169e37038f883e11507}
+      \strng{authornamehash}{374473e59dc2f169e37038f883e11507}
+      \strng{authorfullhash}{374473e59dc2f169e37038f883e11507}
+      \strng{authorfullhashraw}{374473e59dc2f169e37038f883e11507}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper presents a reflection on the role of ontological inquiry in HCI research and practice. Specifically, we introduce philosopher Gilbert Simondon’s proposal of technical mentality, an onto-epistemology based on direct knowledge of technical objects and systems. This paper makes the following contributions: an analysis of Simondon’s ontological critique and its connection to technical mentality; a reflection on the ethical and practical implications of Simondon’s proposal for systems research; an example of technical mentality in practice; and a discussion of how technical mentality might be extended into a design program for HCI through four principles: extension, integration, legibility, and expression.}
+      \field{booktitle}{Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems}
+      \field{isbn}{9798400703300}
+      \field{series}{CHI '24}
+      \field{title}{Technical Mentality: Principles for HCI Research and Practice}
+      \field{year}{2024}
+      \verb{doi}
+      \verb 10.1145/3613904.3642720
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/3613904.3642720
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/3613904.3642720
+      \endverb
+      \keyw{Design,Gilbert Simondon,Ontology,Philosophy,Technical Mentality}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
