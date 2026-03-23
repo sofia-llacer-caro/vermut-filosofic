@@ -12,12 +12,14 @@ Common space to reflect on critical thinking in relationship to artificial intel
 
 
 
-## Jorge to do list
+## To do list 23/03/2026
 
-- [x] The present - technology as instrument
-- [x] The role of friction in learning
-- [x] What is an education framework?
-- [x] Pedagogical strategies
-- [x] Learing environments
-- [x] Educating educators
-- [x] CASE STUDIES (FP)
+- [ ] Abstract
+- [ ] Cite lacking in paragraph 1
+- [ ] reference the french universities' cite first paragraph
+- [ ] Diagram 1
+- [ ] Diagram 2
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
