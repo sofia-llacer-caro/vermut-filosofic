@@ -21,8 +21,13 @@ Common space to reflect on critical thinking in relationship to artificial intel
 - [ ] Diagram 2
 - [ ] The past section
 - [ ] The (emerging) future section
+- [ ] Limits of “user-friendly democratization” section last part that is in spaish
+- [ ] Technological sovereignty section
+- [ ] The role of friction in learning last part MIT thing
+- [ ] Design principles section second part
+- [ ] Structure of critical thinking development section
+- [ ] Measuring educational impact
+- [ ] Modularity and adaptability
 - [ ] 
 - [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+
