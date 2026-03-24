@@ -19,6 +19,9 @@ Common space to reflect on critical thinking in relationship to artificial intel
 - [ ] reference the french universities' cite first paragraph
 - [ ] Diagram 1
 - [ ] Diagram 2
+- [ ] The past section
+- [ ] The (emerging) future section
+- [ ] 
 - [ ] 
 - [ ] 
 - [ ] 
