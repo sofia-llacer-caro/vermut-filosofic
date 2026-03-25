@@ -28,6 +28,10 @@ Common space to reflect on critical thinking in relationship to artificial intel
 - [ ] Structure of critical thinking development section
 - [ ] Measuring educational impact
 - [ ] Modularity and adaptability
+- [ ] Pedagogical strategies: assumption mapping / system analysis tasks
+- [ ] Educating educators there's a comment that you made, maybe you want to add that reference you talk about??
+- [ ] Do not know if learning environments should be named like that or if I missed something.
+- [ ] 
 - [ ] 
 - [ ] 
 
