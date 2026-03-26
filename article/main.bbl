@@ -704,37 +704,6 @@
       \field{title}{The Craftsman}
       \field{year}{2009}
     \endentry
-    \entry{guers2024einstein}{misc}{}{}
-      \name{author}{1}{}{%
-        {{hash=c70d908ffea9b0baf6b0e386794f6278}{%
-           family={Guers},
-           familyi={G\bibinitperiod},
-           given={Ariel},
-           giveni={A\bibinitperiod}}}%
-      }
-      \strng{namehash}{c70d908ffea9b0baf6b0e386794f6278}
-      \strng{fullhash}{c70d908ffea9b0baf6b0e386794f6278}
-      \strng{fullhashraw}{c70d908ffea9b0baf6b0e386794f6278}
-      \strng{bibnamehash}{c70d908ffea9b0baf6b0e386794f6278}
-      \strng{authorbibnamehash}{c70d908ffea9b0baf6b0e386794f6278}
-      \strng{authornamehash}{c70d908ffea9b0baf6b0e386794f6278}
-      \strng{authorfullhash}{c70d908ffea9b0baf6b0e386794f6278}
-      \strng{authorfullhashraw}{c70d908ffea9b0baf6b0e386794f6278}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{LinkedIn}
-      \field{note}{Accessed: 2024}
-      \field{title}{Einstein Connects to Your Canvas Account}
-      \field{year}{2024}
-      \verb{urlraw}
-      \verb https://www.linkedin.com/posts/arielguers_einstein-connects-to-your-canvas-account-activity-7432073453693927424-CO2D
-      \endverb
-      \verb{url}
-      \verb https://www.linkedin.com/posts/arielguers_einstein-connects-to-your-canvas-account-activity-7432073453693927424-CO2D
-      \endverb
-    \endentry
     \entry{eliot1934rock}{book}{}{}
       \name{author}{1}{}{%
         {{hash=f420fb4fe067cc0f5282c19ae4ddc535}{%
@@ -894,8 +863,8 @@
       \strng{authornamehash}{971ef26111bf4a90d5fd1f51f18d6814}
       \strng{authorfullhash}{971ef26111bf4a90d5fd1f51f18d6814}
       \strng{authorfullhashraw}{971ef26111bf4a90d5fd1f51f18d6814}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://fabacademy.org/2025/labs/barcelona/students/katya-castellanos/index.html}}
@@ -919,8 +888,8 @@
       \strng{authornamehash}{b1c03a5257feab82e7795fafb8156ecb}
       \strng{authorfullhash}{b1c03a5257feab82e7795fafb8156ecb}
       \strng{authorfullhashraw}{b1c03a5257feab82e7795fafb8156ecb}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://fabacademy.org/2025/labs/barcelona/students/andrew-mark/}}
@@ -1121,8 +1090,8 @@
       \strng{authornamehash}{374473e59dc2f169e37038f883e11507}
       \strng{authorfullhash}{374473e59dc2f169e37038f883e11507}
       \strng{authorfullhashraw}{374473e59dc2f169e37038f883e11507}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{This paper presents a reflection on the role of ontological inquiry in HCI research and practice. Specifically, we introduce philosopher Gilbert Simondon’s proposal of technical mentality, an onto-epistemology based on direct knowledge of technical objects and systems. This paper makes the following contributions: an analysis of Simondon’s ontological critique and its connection to technical mentality; a reflection on the ethical and practical implications of Simondon’s proposal for systems research; an example of technical mentality in practice; and a discussion of how technical mentality might be extended into a design program for HCI through four principles: extension, integration, legibility, and expression.}
@@ -1175,6 +1144,8 @@
       \endverb
     \endentry
   \enddatalist
+  \missing{andy_alex_2025}
+  \missing{gencat_fp}
 \endrefsection
 \endinput
 

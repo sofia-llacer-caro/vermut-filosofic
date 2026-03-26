@@ -2396,26 +2396,26 @@
     <bcf:citekey order="21" intorder="1">sennett2019construir</bcf:citekey>
     <bcf:citekey order="22" intorder="1">freire1998pedagogy</bcf:citekey>
     <bcf:citekey order="23" intorder="1">sennett2008craftsman</bcf:citekey>
-    <bcf:citekey order="24" intorder="1">guers2024einstein</bcf:citekey>
-    <bcf:citekey order="25" intorder="1">guers2024einstein</bcf:citekey>
-    <bcf:citekey order="26" intorder="1">eliot1934rock</bcf:citekey>
-    <bcf:citekey order="27" intorder="1">grant2014understanding</bcf:citekey>
-    <bcf:citekey order="28" intorder="1">vygotsky1978mind</bcf:citekey>
-    <bcf:citekey order="29" intorder="1">mdef_machineparadox2024</bcf:citekey>
-    <bcf:citekey order="30" intorder="1">castellanos2025fabacademy</bcf:citekey>
-    <bcf:citekey order="31" intorder="1">mark2025fabacademy</bcf:citekey>
-    <bcf:citekey order="32" intorder="1">surinach2022fabacademy</bcf:citekey>
-    <bcf:citekey order="33" intorder="1">fuentemilla2024ccl</bcf:citekey>
-    <bcf:citekey order="34" intorder="1">lomloe2020</bcf:citekey>
-    <bcf:citekey order="35" intorder="1">mefpd_aps</bcf:citekey>
-    <bcf:citekey order="36" intorder="1">academany</bcf:citekey>
-    <bcf:citekey order="37" intorder="1">intef2024guia</bcf:citekey>
+    <bcf:citekey order="24" intorder="1">eliot1934rock</bcf:citekey>
+    <bcf:citekey order="25" intorder="1">grant2014understanding</bcf:citekey>
+    <bcf:citekey order="26" intorder="1">vygotsky1978mind</bcf:citekey>
+    <bcf:citekey order="27" intorder="1">mdef_machineparadox2024</bcf:citekey>
+    <bcf:citekey order="28" intorder="1">castellanos2025fabacademy</bcf:citekey>
+    <bcf:citekey order="29" intorder="1">mark2025fabacademy</bcf:citekey>
+    <bcf:citekey order="30" intorder="1">surinach2022fabacademy</bcf:citekey>
+    <bcf:citekey order="31" intorder="1">fuentemilla2024ccl</bcf:citekey>
+    <bcf:citekey order="32" intorder="1">lomloe2020</bcf:citekey>
+    <bcf:citekey order="33" intorder="1">mefpd_aps</bcf:citekey>
+    <bcf:citekey order="34" intorder="1">academany</bcf:citekey>
+    <bcf:citekey order="35" intorder="1">intef2024guia</bcf:citekey>
+    <bcf:citekey order="36" intorder="1">gencat2024ia</bcf:citekey>
+    <bcf:citekey order="37" intorder="1">juntaandalucia2024ia</bcf:citekey>
     <bcf:citekey order="38" intorder="1">gencat2024ia</bcf:citekey>
-    <bcf:citekey order="39" intorder="1">juntaandalucia2024ia</bcf:citekey>
-    <bcf:citekey order="40" intorder="1">gencat2024ia</bcf:citekey>
-    <bcf:citekey order="41" intorder="1">benabdallah2024technicalmentality</bcf:citekey>
-    <bcf:citekey order="42" intorder="1">fuentemilla2024ccl</bcf:citekey>
-    <bcf:citekey order="43" intorder="1">ward2025</bcf:citekey>
+    <bcf:citekey order="39" intorder="1">benabdallah2024technicalmentality</bcf:citekey>
+    <bcf:citekey order="40" intorder="1">gencat_fp</bcf:citekey>
+    <bcf:citekey order="41" intorder="1">fuentemilla2024ccl</bcf:citekey>
+    <bcf:citekey order="42" intorder="1">ward2025</bcf:citekey>
+    <bcf:citekey order="43" intorder="1">andy_alex_2025</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
