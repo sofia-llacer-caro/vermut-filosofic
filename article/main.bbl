@@ -231,6 +231,45 @@
       \field{title}{Fab: The Coming Revolution on Your Desktop--From Personal Computers to Personal Fabrication}
       \field{year}{2005}
     \endentry
+    \entry{gershenfeld2017designing}{book}{}{}
+      \name{author}{3}{}{%
+        {{hash=113a59d98dd032dc5604a9b82a5700b9}{%
+           family={Gershenfeld},
+           familyi={G\bibinitperiod},
+           given={Neil},
+           giveni={N\bibinitperiod}}}%
+        {{hash=6f668cdf1653bb809b9fc88024028516}{%
+           family={Gershenfeld},
+           familyi={G\bibinitperiod},
+           given={Alan},
+           giveni={A\bibinitperiod}}}%
+        {{hash=f4d3b6595e6b671286d55ba121103a0b}{%
+           family={Cutcher-Gershenfeld},
+           familyi={C\bibinithyphendelim G\bibinitperiod},
+           given={Joel},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Basic Books}%
+      }
+      \strng{namehash}{d51fbacd396183c6d2adb5f273e9391a}
+      \strng{fullhash}{336d059dc5684ab7722a19e177a994e6}
+      \strng{fullhashraw}{336d059dc5684ab7722a19e177a994e6}
+      \strng{bibnamehash}{336d059dc5684ab7722a19e177a994e6}
+      \strng{authorbibnamehash}{336d059dc5684ab7722a19e177a994e6}
+      \strng{authornamehash}{d51fbacd396183c6d2adb5f273e9391a}
+      \strng{authorfullhash}{336d059dc5684ab7722a19e177a994e6}
+      \strng{authorfullhashraw}{336d059dc5684ab7722a19e177a994e6}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Designing Reality: How to Survive and Thrive in the Third Digital Revolution}
+      \field{year}{2017}
+    \endentry
     \entry{sola1980educacio}{book}{}{}
       \name{author}{1}{}{%
         {{hash=2fbce0a37097b6b8313164bf70115fcc}{%
@@ -253,14 +292,44 @@
       \strng{authornamehash}{2fbce0a37097b6b8313164bf70115fcc}
       \strng{authorfullhash}{2fbce0a37097b6b8313164bf70115fcc}
       \strng{authorfullhashraw}{2fbce0a37097b6b8313164bf70115fcc}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Educació i moviment llibertari a Catalunya (1901--1939)}
       \field{year}{1980}
       \field{pages}{197}
       \range{pages}{1}
+    \endentry
+    \entry{decret175_2022}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=b89e996dae1e72a98b8c6c3b9420ed1f}{%
+           family={{Generalitat de Catalunya}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{b89e996dae1e72a98b8c6c3b9420ed1f}
+      \strng{fullhash}{b89e996dae1e72a98b8c6c3b9420ed1f}
+      \strng{fullhashraw}{b89e996dae1e72a98b8c6c3b9420ed1f}
+      \strng{bibnamehash}{b89e996dae1e72a98b8c6c3b9420ed1f}
+      \strng{authorbibnamehash}{b89e996dae1e72a98b8c6c3b9420ed1f}
+      \strng{authornamehash}{b89e996dae1e72a98b8c6c3b9420ed1f}
+      \strng{authorfullhash}{b89e996dae1e72a98b8c6c3b9420ed1f}
+      \strng{authorfullhashraw}{b89e996dae1e72a98b8c6c3b9420ed1f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Diari Oficial de la Generalitat de Catalunya (DOGC)}
+      \field{month}{9}
+      \field{note}{Modificat pel Decret 480/2024, de 17 de desembre. Accessed: March 24, 2026}
+      \field{title}{Decret 175/2022, de 27 de setembre, d'ordenació dels ensenyaments de l'educació bàsica}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://portaljuridic.gencat.cat/ca/document-del-pjur/?documentId=938401
+      \endverb
+      \verb{url}
+      \verb https://portaljuridic.gencat.cat/ca/document-del-pjur/?documentId=938401
+      \endverb
     \endentry
     \entry{tawil2013}{article}{}{}
       \name{author}{1}{}{%
@@ -278,8 +347,8 @@
       \strng{authornamehash}{23a46ddea848de44b0294023c2e333be}
       \strng{authorfullhash}{23a46ddea848de44b0294023c2e333be}
       \strng{authorfullhashraw}{23a46ddea848de44b0294023c2e333be}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{ERF Occasional Papers}
@@ -308,8 +377,8 @@
       \strng{authornamehash}{981756edf308e70395b3a1e137fbfb79}
       \strng{authorfullhash}{981756edf308e70395b3a1e137fbfb79}
       \strng{authorfullhashraw}{981756edf308e70395b3a1e137fbfb79}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Revista Academia y Virtualidad}
@@ -319,6 +388,52 @@
       \field{year}{2014}
       \field{pages}{53}
       \range{pages}{1}
+    \endentry
+    \entry{lomloe2020}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=ffcaa79a49ffccd02ea8bab3b4f0e047}{%
+           family={{Jefatura del Estado}},
+           familyi={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{ffcaa79a49ffccd02ea8bab3b4f0e047}
+      \strng{fullhash}{ffcaa79a49ffccd02ea8bab3b4f0e047}
+      \strng{fullhashraw}{ffcaa79a49ffccd02ea8bab3b4f0e047}
+      \strng{bibnamehash}{ffcaa79a49ffccd02ea8bab3b4f0e047}
+      \strng{authorbibnamehash}{ffcaa79a49ffccd02ea8bab3b4f0e047}
+      \strng{authornamehash}{ffcaa79a49ffccd02ea8bab3b4f0e047}
+      \strng{authorfullhash}{ffcaa79a49ffccd02ea8bab3b4f0e047}
+      \strng{authorfullhashraw}{ffcaa79a49ffccd02ea8bab3b4f0e047}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Boletín Oficial del Estado (BOE), núm.~340, de 30 de diciembre de 2020}
+      \field{month}{12}
+      \field{note}{Ref. BOE-A-2020-17264. Última actualización: 1 de abril de 2022. \url{https://www.boe.es/buscar/act.php?id=BOE-A-2020-17264}. Accessed: March 24, 2026}
+      \field{title}{Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación}
+      \field{year}{2020}
+    \endentry
+    \entry{academany}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=bf1706ad66a9d7ad22d48bc07690bac1}{%
+           family={{Academany}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{bf1706ad66a9d7ad22d48bc07690bac1}
+      \strng{fullhash}{bf1706ad66a9d7ad22d48bc07690bac1}
+      \strng{fullhashraw}{bf1706ad66a9d7ad22d48bc07690bac1}
+      \strng{bibnamehash}{bf1706ad66a9d7ad22d48bc07690bac1}
+      \strng{authorbibnamehash}{bf1706ad66a9d7ad22d48bc07690bac1}
+      \strng{authornamehash}{bf1706ad66a9d7ad22d48bc07690bac1}
+      \strng{authorfullhash}{bf1706ad66a9d7ad22d48bc07690bac1}
+      \strng{authorfullhashraw}{bf1706ad66a9d7ad22d48bc07690bac1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://academany.org/}}
+      \field{note}{Accessed: March 24, 2026}
+      \field{title}{Academany: A Global Distributed Campus for High Level Education}
     \endentry
     \entry{KITCHENER198189}{article}{}{}
       \name{author}{2}{}{%
@@ -433,6 +548,32 @@
       \verb https://arxiv.org/abs/2506.08872
       \endverb
     \endentry
+    \entry{mw_democratization}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=4fd83033554a794212a177de8a7c6bdd}{%
+           family={{Merriam-Webster}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Merriam-Webster, Incorporated}%
+      }
+      \strng{namehash}{4fd83033554a794212a177de8a7c6bdd}
+      \strng{fullhash}{4fd83033554a794212a177de8a7c6bdd}
+      \strng{fullhashraw}{4fd83033554a794212a177de8a7c6bdd}
+      \strng{bibnamehash}{4fd83033554a794212a177de8a7c6bdd}
+      \strng{authorbibnamehash}{4fd83033554a794212a177de8a7c6bdd}
+      \strng{authornamehash}{4fd83033554a794212a177de8a7c6bdd}
+      \strng{authorfullhash}{4fd83033554a794212a177de8a7c6bdd}
+      \strng{authorfullhashraw}{4fd83033554a794212a177de8a7c6bdd}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Merriam-Webster.com Dictionary}
+      \field{howpublished}{\url{https://www.merriam-webster.com/dictionary/democratization}}
+      \field{note}{Accessed: March 24, 2026}
+      \field{title}{Democratization}
+    \endentry
     \entry{godwin1818fables}{book}{}{}
       \name{author}{1}{}{%
         {{hash=7fae44eacc4b26f21b9a5537ab7401e2}{%
@@ -497,8 +638,8 @@
       \strng{translatorfullhash}{dad7697cd53fa4a43d259cacb23ebb95}
       \strng{translatorfullhashraw}{dad7697cd53fa4a43d259cacb23ebb95}
       \field{extraname}{1}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{Translated from the English \textit{Building and Dwelling: Ethics for the City} (2018)}
@@ -524,8 +665,8 @@
       \strng{authornamehash}{3186dc3eb3ef8c53974ac139b2b332f6}
       \strng{authorfullhash}{3186dc3eb3ef8c53974ac139b2b332f6}
       \strng{authorfullhashraw}{3186dc3eb3ef8c53974ac139b2b332f6}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{9780847690473}
@@ -556,12 +697,43 @@
       \strng{authorfullhash}{f422e0e7493ad006df285099a45aaf6e}
       \strng{authorfullhashraw}{f422e0e7493ad006df285099a45aaf6e}
       \field{extraname}{2}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{The Craftsman}
       \field{year}{2009}
+    \endentry
+    \entry{guers2024einstein}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=c70d908ffea9b0baf6b0e386794f6278}{%
+           family={Guers},
+           familyi={G\bibinitperiod},
+           given={Ariel},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{c70d908ffea9b0baf6b0e386794f6278}
+      \strng{fullhash}{c70d908ffea9b0baf6b0e386794f6278}
+      \strng{fullhashraw}{c70d908ffea9b0baf6b0e386794f6278}
+      \strng{bibnamehash}{c70d908ffea9b0baf6b0e386794f6278}
+      \strng{authorbibnamehash}{c70d908ffea9b0baf6b0e386794f6278}
+      \strng{authornamehash}{c70d908ffea9b0baf6b0e386794f6278}
+      \strng{authorfullhash}{c70d908ffea9b0baf6b0e386794f6278}
+      \strng{authorfullhashraw}{c70d908ffea9b0baf6b0e386794f6278}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{LinkedIn}
+      \field{note}{Accessed: 2024}
+      \field{title}{Einstein Connects to Your Canvas Account}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.linkedin.com/posts/arielguers_einstein-connects-to-your-canvas-account-activity-7432073453693927424-CO2D
+      \endverb
+      \verb{url}
+      \verb https://www.linkedin.com/posts/arielguers_einstein-connects-to-your-canvas-account-activity-7432073453693927424-CO2D
+      \endverb
     \endentry
     \entry{eliot1934rock}{book}{}{}
       \name{author}{1}{}{%
@@ -586,8 +758,8 @@
       \strng{authornamehash}{f420fb4fe067cc0f5282c19ae4ddc535}
       \strng{authorfullhash}{f420fb4fe067cc0f5282c19ae4ddc535}
       \strng{authorfullhashraw}{f420fb4fe067cc0f5282c19ae4ddc535}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{edition}{1}
@@ -616,8 +788,8 @@
       \strng{authornamehash}{24e9f65fe4f75482bfaec0d345d8bdb8}
       \strng{authorfullhash}{24e9f65fe4f75482bfaec0d345d8bdb8}
       \strng{authorfullhashraw}{24e9f65fe4f75482bfaec0d345d8bdb8}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Administrative Issues Journal: Connecting Education, Practice, and Research}
@@ -683,6 +855,104 @@
       \verb 10.2307/j.ctvjf9vz4
       \endverb
     \endentry
+    \entry{mdef_machineparadox2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=9a44305ccce44ffa0dec32a2c9c7a67b}{%
+           family={{MDEF -- Fab Lab Barcelona}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{9a44305ccce44ffa0dec32a2c9c7a67b}
+      \strng{fullhash}{9a44305ccce44ffa0dec32a2c9c7a67b}
+      \strng{fullhashraw}{9a44305ccce44ffa0dec32a2c9c7a67b}
+      \strng{bibnamehash}{9a44305ccce44ffa0dec32a2c9c7a67b}
+      \strng{authorbibnamehash}{9a44305ccce44ffa0dec32a2c9c7a67b}
+      \strng{authornamehash}{9a44305ccce44ffa0dec32a2c9c7a67b}
+      \strng{authorfullhash}{9a44305ccce44ffa0dec32a2c9c7a67b}
+      \strng{authorfullhashraw}{9a44305ccce44ffa0dec32a2c9c7a67b}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://mdef.fablabbcn.org/2024-25/year-1/t-1/the-machine-paradox/}}
+      \field{note}{Master in Design for Emergent Futures, Year 1, Term 1, 2024--25. Accessed: March 24, 2026}
+      \field{title}{The Machine Paradox}
+      \field{year}{2024}
+    \endentry
+    \entry{castellanos2025fabacademy}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=971ef26111bf4a90d5fd1f51f18d6814}{%
+           family={Castellanos\bibnamedelima Estrada},
+           familyi={C\bibinitperiod\bibinitdelim E\bibinitperiod},
+           given={Katya},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{971ef26111bf4a90d5fd1f51f18d6814}
+      \strng{fullhash}{971ef26111bf4a90d5fd1f51f18d6814}
+      \strng{fullhashraw}{971ef26111bf4a90d5fd1f51f18d6814}
+      \strng{bibnamehash}{971ef26111bf4a90d5fd1f51f18d6814}
+      \strng{authorbibnamehash}{971ef26111bf4a90d5fd1f51f18d6814}
+      \strng{authornamehash}{971ef26111bf4a90d5fd1f51f18d6814}
+      \strng{authorfullhash}{971ef26111bf4a90d5fd1f51f18d6814}
+      \strng{authorfullhashraw}{971ef26111bf4a90d5fd1f51f18d6814}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://fabacademy.org/2025/labs/barcelona/students/katya-castellanos/index.html}}
+      \field{note}{Fab Lab Barcelona, IAAC. Licensed under Creative Commons Attribution Non Commercial. Accessed: March 25, 2026}
+      \field{title}{Fab Academy 2025 -- Student Portfolio}
+      \field{year}{2025}
+    \endentry
+    \entry{mark2025fabacademy}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=b1c03a5257feab82e7795fafb8156ecb}{%
+           family={Mark},
+           familyi={M\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{b1c03a5257feab82e7795fafb8156ecb}
+      \strng{fullhash}{b1c03a5257feab82e7795fafb8156ecb}
+      \strng{fullhashraw}{b1c03a5257feab82e7795fafb8156ecb}
+      \strng{bibnamehash}{b1c03a5257feab82e7795fafb8156ecb}
+      \strng{authorbibnamehash}{b1c03a5257feab82e7795fafb8156ecb}
+      \strng{authornamehash}{b1c03a5257feab82e7795fafb8156ecb}
+      \strng{authorfullhash}{b1c03a5257feab82e7795fafb8156ecb}
+      \strng{authorfullhashraw}{b1c03a5257feab82e7795fafb8156ecb}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://fabacademy.org/2025/labs/barcelona/students/andrew-mark/}}
+      \field{note}{Fab Lab Barcelona, IAAC. Licensed under Creative Commons Attribution Non Commercial. Accessed: March 25, 2026}
+      \field{title}{Fab Academy 2025 -- Student Portfolio}
+      \field{year}{2025}
+    \endentry
+    \entry{surinach2022fabacademy}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=3822827b8b161cc3442abcd9c70da78d}{%
+           family={Suriñach\bibnamedelima Carandell},
+           familyi={S\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Adai},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{3822827b8b161cc3442abcd9c70da78d}
+      \strng{fullhash}{3822827b8b161cc3442abcd9c70da78d}
+      \strng{fullhashraw}{3822827b8b161cc3442abcd9c70da78d}
+      \strng{bibnamehash}{3822827b8b161cc3442abcd9c70da78d}
+      \strng{authorbibnamehash}{3822827b8b161cc3442abcd9c70da78d}
+      \strng{authornamehash}{3822827b8b161cc3442abcd9c70da78d}
+      \strng{authorfullhash}{3822827b8b161cc3442abcd9c70da78d}
+      \strng{authorfullhashraw}{3822827b8b161cc3442abcd9c70da78d}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://fabacademy.org/2022/labs/barcelona/students/adai-surinac/}}
+      \field{note}{Fab Lab Barcelona, IAAC. Last updated: May 28, 2022. Licensed under Creative Commons Attribution Non Commercial. Accessed: March 25, 2026}
+      \field{title}{Fab Academy 2022 -- Student Portfolio}
+      \field{year}{2022}
+    \endentry
     \entry{fuentemilla2024ccl}{misc}{}{}
       \name{author}{1}{}{%
         {{hash=9fc2e8db037e5b07dfdcf7bbc5f240d6}{%
@@ -699,14 +969,70 @@
       \strng{authornamehash}{9fc2e8db037e5b07dfdcf7bbc5f240d6}
       \strng{authorfullhash}{9fc2e8db037e5b07dfdcf7bbc5f240d6}
       \strng{authorfullhashraw}{9fc2e8db037e5b07dfdcf7bbc5f240d6}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://santifu.github.io/ccl/}}
       \field{note}{Fab Lab Barcelona. Licensed under CC BY-NC-SA 4.0. Accessed: March 18, 2026}
       \field{title}{Cognitive Contribution Label {V1.1}}
+    \endentry
+    \entry{mefpd_aps}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=649b5a3c4648de64605992318c588940}{%
+           family={{Ministerio de Educación, Formación Profesional y Deportes}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{649b5a3c4648de64605992318c588940}
+      \strng{fullhash}{649b5a3c4648de64605992318c588940}
+      \strng{fullhashraw}{649b5a3c4648de64605992318c588940}
+      \strng{bibnamehash}{649b5a3c4648de64605992318c588940}
+      \strng{authorbibnamehash}{649b5a3c4648de64605992318c588940}
+      \strng{authornamehash}{649b5a3c4648de64605992318c588940}
+      \strng{authorfullhash}{649b5a3c4648de64605992318c588940}
+      \strng{authorfullhashraw}{649b5a3c4648de64605992318c588940}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Secretaría General de Cooperación Territorial e Innovación Educativa (SGCTIE). \url{https://www.educacionfpydeportes.gob.es/mc/sgctie/educacion-para-sostenibilidad/aprendizaje-servicio.html}}
+      \field{note}{Gobierno de España. Accessed: March 25, 2026}
+      \field{title}{Aprendizaje Servicio}
+    \endentry
+    \entry{intef2024guia}{report}{}{}
+      \name{author}{1}{}{%
+        {{hash=d2fab9ade3e3c947a814b98299af1283}{%
+           family={{Instituto Nacional de Tecnologías Educativas y de Formación del Profesorado (INTEF)}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Ministerio de Educación, Formación Profesional y Deportes}%
+      }
+      \list{location}{1}{%
+        {España}%
+      }
+      \strng{namehash}{d2fab9ade3e3c947a814b98299af1283}
+      \strng{fullhash}{d2fab9ade3e3c947a814b98299af1283}
+      \strng{fullhashraw}{d2fab9ade3e3c947a814b98299af1283}
+      \strng{bibnamehash}{d2fab9ade3e3c947a814b98299af1283}
+      \strng{authorbibnamehash}{d2fab9ade3e3c947a814b98299af1283}
+      \strng{authornamehash}{d2fab9ade3e3c947a814b98299af1283}
+      \strng{authorfullhash}{d2fab9ade3e3c947a814b98299af1283}
+      \strng{authorfullhashraw}{d2fab9ade3e3c947a814b98299af1283}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Consultado: febrero de 2025. Disponible también en inglés: \url{https://code.intef.es/wp-content/uploads/2024/07/Guidelines-on-the-use-of-AI-in-Education-INTEF_2024.pdf}}
+      \field{title}{Guía sobre el uso de la inteligencia artificial en el ámbito educativo}
+      \field{type}{Guía}
       \field{year}{2024}
+      \verb{urlraw}
+      \verb https://code.intef.es/wp-content/uploads/2024/07/Gu%C3%ADa-sobre-el-uso-de-la-IA-en-el-%C3%A1mbito-educativo-INTEF_2024.pdf
+      \endverb
+      \verb{url}
+      \verb https://code.intef.es/wp-content/uploads/2024/07/Gu%C3%ADa-sobre-el-uso-de-la-IA-en-el-%C3%A1mbito-educativo-INTEF_2024.pdf
+      \endverb
     \endentry
     \entry{gencat2024ia}{report}{}{}
       \name{author}{1}{}{%
@@ -728,8 +1054,8 @@
       \strng{authornamehash}{2e6e6fa56493c49e3bd1172683d0f38d}
       \strng{authorfullhash}{2e6e6fa56493c49e3bd1172683d0f38d}
       \strng{authorfullhashraw}{2e6e6fa56493c49e3bd1172683d0f38d}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{2}
@@ -743,6 +1069,30 @@
       \verb{url}
       \verb https://educacio.gencat.cat/web/.content/home/departament/publicacions/monografies/mon-digital/intelligencia-artificial-educacio/ia-educacio.pdf
       \endverb
+    \endentry
+    \entry{juntaandalucia2024ia}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=355503fad246337ad3d683983981dfec}{%
+           family={{Consejería de Desarrollo Educativo y Formación Profesional. Junta de Andalucía}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{355503fad246337ad3d683983981dfec}
+      \strng{fullhash}{355503fad246337ad3d683983981dfec}
+      \strng{fullhashraw}{355503fad246337ad3d683983981dfec}
+      \strng{bibnamehash}{355503fad246337ad3d683983981dfec}
+      \strng{authorbibnamehash}{355503fad246337ad3d683983981dfec}
+      \strng{authornamehash}{355503fad246337ad3d683983981dfec}
+      \strng{authorfullhash}{355503fad246337ad3d683983981dfec}
+      \strng{authorfullhashraw}{355503fad246337ad3d683983981dfec}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.juntadeandalucia.es/educacion/portales/web/actualidad/w/la-junta-acerca-la-inteligencia-artificial-a-las-aulas-andaluzas}}
+      \field{month}{12}
+      \field{note}{Accessed: March 25, 2026}
+      \field{title}{La Junta acerca la Inteligencia Artificial a las aulas andaluzas}
+      \field{year}{2024}
     \endentry
     \entry{benabdallah2024technicalmentality}{inproceedings}{}{}
       \name{author}{2}{}{%
@@ -771,8 +1121,8 @@
       \strng{authornamehash}{374473e59dc2f169e37038f883e11507}
       \strng{authorfullhash}{374473e59dc2f169e37038f883e11507}
       \strng{authorfullhashraw}{374473e59dc2f169e37038f883e11507}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{This paper presents a reflection on the role of ontological inquiry in HCI research and practice. Specifically, we introduce philosopher Gilbert Simondon’s proposal of technical mentality, an onto-epistemology based on direct knowledge of technical objects and systems. This paper makes the following contributions: an analysis of Simondon’s ontological critique and its connection to technical mentality; a reflection on the ethical and practical implications of Simondon’s proposal for systems research; an example of technical mentality in practice; and a discussion of how technical mentality might be extended into a design program for HCI through four principles: extension, integration, legibility, and expression.}
@@ -808,8 +1158,8 @@
       \strng{authornamehash}{46ce9911aa1fe41965da07a96d37d6cc}
       \strng{authorfullhash}{46ce9911aa1fe41965da07a96d37d6cc}
       \strng{authorfullhashraw}{46ce9911aa1fe41965da07a96d37d6cc}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{The Lavin Agency, \textit{Lavin Voices}}

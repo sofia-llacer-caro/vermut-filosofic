@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.8.9)  22 MAR 2026 20:10
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.8.9)  26 MAR 2026 10:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -736,7 +736,7 @@ Package hyperref Info: Link coloring ON on input line 54.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-Overfull \hbox (21.02568pt too wide) in paragraph at lines 76--76
+Overfull \hbox (21.02568pt too wide) in paragraph at lines 74--74
 []\TU/lmr/bx/n/14.4 CONTEXT - TECHNOLOGY & EDUCATION (past, present
  []
 
@@ -747,7 +747,7 @@ Overfull \hbox (21.02568pt too wide) in paragraph at lines 76--76
 ]
 
 [2]
-Overfull \hbox (6.75502pt too wide) in paragraph at lines 109--110
+Overfull \hbox (6.75502pt too wide) in paragraph at lines 97--98
 []\TU/lmr/m/n/10 This requires a new educational foundation: critical thinking oriented toward technological sovereignty. 
  []
 
@@ -756,13 +756,11 @@ Overfull \hbox (6.75502pt too wide) in paragraph at lines 109--110
 [3]
 
 [4]
-Overfull \hbox (37.36pt too wide) in paragraph at lines 157--159
-\TU/lmr/m/n/10 it could be cool to cite eric sadin’s the spectral life book (https://www.goodreads.com/book/show/211267944-
- []
+File: figs/einstein.jpg Graphic file (type bmp)
+<figs/einstein.jpg>
 
-
-Overfull \hbox (16.26826pt too wide) in paragraph at lines 172--172
-[]\TU/lmr/bx/n/14.4 EDUCATIONAL FRAMEWORK FOR THE AGE OF LLMS 
+Overfull \hbox (13.66187pt too wide) in paragraph at lines 165--165
+[]\TU/lmr/bx/n/14.4 EDUCATIONAL FRAMEWORK FOR THE AGE OF LLMs 
  []
 
 
@@ -772,38 +770,45 @@ Overfull \hbox (16.26826pt too wide) in paragraph at lines 172--172
 [6]
 
 [7]
-Underfull \hbox (badness 10000) in paragraph at lines 253--254
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 249--250
 
  []
 
 
-
-[8]
 
 [9]
 
 [10]
 
 [11]
+Overfull \hbox (70.22664pt too wide) in paragraph at lines 280--280
+\TU/lmr/m/n/10 General de Cooperación Territorial e Innovación Educativa (SGCTIE). [][]$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][][][][][][][][][] []
+ []
 
-[12] (./main.aux)
+
+
+[12]
+
+[13] (./main.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: E89B51514F7CD99F38B0E6411A26601F;6614.
+(rerunfilecheck)             Checksum: E9A277E68A3992C8FEABFA329A5E664B;6614.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 25423 strings out of 473832
- 501808 string characters out of 5729482
- 1345876 words of memory out of 5000000
- 48255 multiletter control sequences out of 15000+600000
+ 25482 strings out of 473832
+ 504231 string characters out of 5729482
+ 1355933 words of memory out of 5000000
+ 48311 multiletter control sequences out of 15000+600000
  563133 words of font info for 60 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 67i,6n,81p,2587b,5565s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 67i,6n,81p,2587b,5560s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.xdv (12 pages, 415548 bytes).
+Output written on main.xdv (13 pages, 469092 bytes).
