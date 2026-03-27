@@ -18,7 +18,7 @@ Common space to reflect on critical thinking in relationship to artificial intel
 - [ ] Cite lacking in paragraph 1
 - [ ] reference the french universities' cite first paragraph
 - [ ] Diagram 1
-- [ ] Diagram 2
+- [x] Diagram 2
 - [ ] The past section
 - [ ] The (emerging) future section
 - [ ] Limits of “user-friendly democratization” section last part that is in spaish
