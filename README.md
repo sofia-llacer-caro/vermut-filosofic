@@ -36,3 +36,5 @@ Common space to reflect on critical thinking in relationship to artificial intel
 - [ ] Conclusion
 - [ ] Add gpt usage license or acknowledgements: https://santifu.github.io/ccl/generator.html 
 - [ ] hamlet example with the diagram?
+- [ ] put everything in template
+- [ ] proofreading
