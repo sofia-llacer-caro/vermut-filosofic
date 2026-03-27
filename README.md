@@ -24,6 +24,7 @@ Common space to reflect on critical thinking in relationship to artificial intel
 - [ ] make repo private - @sofia-llacer-caro
 - [ ] Limits of “user-friendly democratization” section last part that is in spanish - @sofia-llacer-caro
 - [ ] The role of friction in learning last part MIT thing - @sofia-llacer-caro
+- [ ] add multimodal
 
 ### Big
 - [ ] Diagram 1 - @jmuozan
