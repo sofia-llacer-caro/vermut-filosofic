@@ -34,4 +34,5 @@ Common space to reflect on critical thinking in relationship to artificial intel
 - [ ] Lessons learned
 - [ ] Toward a pedagogical playbook
 - [ ] Conclusion
-
+- [ ] Add gpt usage license or acknowledgements: https://santifu.github.io/ccl/generator.html 
+- [ ] hamlet example with the diagram?
