@@ -14,9 +14,9 @@ Common space to reflect on critical thinking in relationship to artificial intel
 ## To do list 23/03/2026
 
 ### Small
-- [ ] Cite lacking in paragraph 1 - @sofia-llacer-caro
+- [x] Cite lacking in paragraph 1 - @sofia-llacer-caro
 - [ ] Educating educators there's a comment that you made, maybe you want to add that reference you talk about?? - @sofia-llacer-caro
-- [ ] reference the french universities' cite first paragraph - @sofia-llacer-caro
+- [x] reference the french universities' cite first paragraph - @sofia-llacer-caro
 - [ ] Do not know if learning environments should be named like that or if I missed something. - @sofia-llacer-caro
 - [ ] Modularity and adaptability (probably just delete) - @sofia-llacer-caro
 - [ ] Lessons learned - (just a little bridge probably) @sofia-llacer-caro
