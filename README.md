@@ -21,7 +21,7 @@ Common space to reflect on critical thinking in relationship to artificial intel
 - [ ] Modularity and adaptability (probably just delete) - @sofia-llacer-caro
 - [ ] Lessons learned - (just a little bridge probably) @sofia-llacer-caro
 - [ ] Add gpt usage license and acknowledgements: https://santifu.github.io/ccl/generator.html - @jmuozan
-- [ ] make repo private - @sofia-llacer-caro
+- [x] make repo private - @sofia-llacer-caro
 - [ ] Limits of “user-friendly democratization” section last part that is in spanish - @sofia-llacer-caro
 - [ ] The role of friction in learning last part MIT thing - @sofia-llacer-caro
 - [ ] add multimodal
