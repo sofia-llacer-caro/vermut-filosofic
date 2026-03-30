@@ -33,12 +33,12 @@ Common space to reflect on critical thinking in relationship to artificial intel
 - [ ] The (emerging) future section - @sofia-llacer-caro
 - [x] Technological sovereignty section - @sofia-llacer-caro
 - [x] Design principles section second part - @sofia-llacer-caro
-- [ ] Structure of critical thinking development section - @sofia-llacer-caro
+- [x] Structure of critical thinking development section - @sofia-llacer-caro
 - [x] Measuring educational impact - @sofia-llacer-caro
 - [x] Pedagogical strategies: assumption mapping / system analysis tasks - @sofia-llacer-caro
 - [ ] Toward a pedagogical playbook - @jmuozan
 - [ ] Conclusion - @sofia-llacer-caro
-- [ ] hamlet example with the diagram? - @sofia-llacer-caro
+- [x] hamlet example with the diagram? - @sofia-llacer-caro
 - [ ] Abstract (up to 800 words) - @sofia-llacer-caro
 - [ ] Title
 - [ ] put everything in template - @sofia-llacer-caro
