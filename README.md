@@ -19,11 +19,11 @@ Common space to reflect on critical thinking in relationship to artificial intel
 - [x] reference the french universities' cite first paragraph - @sofia-llacer-caro
 - [ ] Do not know if learning environments should be named like that or if I missed something. - @sofia-llacer-caro
 - [x] Modularity and adaptability (probably just delete) - @sofia-llacer-caro
-- [ ] Lessons learned - (just a little bridge probably) @sofia-llacer-caro
+- [x] Lessons learned - (just a little bridge probably) @sofia-llacer-caro
 - [ ] Add gpt usage license and acknowledgements: https://santifu.github.io/ccl/generator.html - @jmuozan
 - [x] make repo private - @sofia-llacer-caro
 - [x] Limits of “user-friendly democratization” section last part that is in spanish - @sofia-llacer-caro
-- [ ] The role of friction in learning last part MIT thing - @sofia-llacer-caro
+- [x] The role of friction in learning last part MIT thing - @sofia-llacer-caro
 - [ ] add multimodal
 
 ### Big
