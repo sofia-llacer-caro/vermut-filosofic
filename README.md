@@ -35,7 +35,7 @@ Common space to reflect on critical thinking in relationship to artificial intel
 - [x] Design principles section second part - @sofia-llacer-caro
 - [ ] Structure of critical thinking development section - @sofia-llacer-caro
 - [x] Measuring educational impact - @sofia-llacer-caro
-- [ ] Pedagogical strategies: assumption mapping / system analysis tasks - @sofia-llacer-caro
+- [x] Pedagogical strategies: assumption mapping / system analysis tasks - @sofia-llacer-caro
 - [ ] Toward a pedagogical playbook - @jmuozan
 - [ ] Conclusion - @sofia-llacer-caro
 - [ ] hamlet example with the diagram? - @sofia-llacer-caro
