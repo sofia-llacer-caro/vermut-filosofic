@@ -32,7 +32,7 @@ Common space to reflect on critical thinking in relationship to artificial intel
 - [x] The past section - @sofia-llacer-caro
 - [ ] The (emerging) future section - @sofia-llacer-caro
 - [x] Technological sovereignty section - @sofia-llacer-caro
-- [ ] Design principles section second part - @sofia-llacer-caro
+- [x] Design principles section second part - @sofia-llacer-caro
 - [ ] Structure of critical thinking development section - @sofia-llacer-caro
 - [x] Measuring educational impact - @sofia-llacer-caro
 - [ ] Pedagogical strategies: assumption mapping / system analysis tasks - @sofia-llacer-caro
