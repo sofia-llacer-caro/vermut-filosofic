@@ -27,7 +27,7 @@ Common space to reflect on critical thinking in relationship to artificial intel
 - [ ] add multimodal
 
 ### Big
-- [ ] Diagram 1 - @jmuozan
+- [x] Diagram 1 - @jmuozan
 - [x] Diagram 2 - @sofia-llacer-caro
 - [x] The past section - @sofia-llacer-caro
 - [x] The (emerging) future section - @sofia-llacer-caro
@@ -36,7 +36,7 @@ Common space to reflect on critical thinking in relationship to artificial intel
 - [x] Structure of critical thinking development section - @sofia-llacer-caro
 - [x] Measuring educational impact - @sofia-llacer-caro
 - [x] Pedagogical strategies: assumption mapping / system analysis tasks - @sofia-llacer-caro
-- [ ] Toward a pedagogical playbook - @jmuozan
+- [x] Toward a pedagogical playbook - @jmuozan
 - [x] Conclusion - @sofia-llacer-caro
 - [x] hamlet example with the diagram? - @sofia-llacer-caro
 - [ ] Abstract (up to 800 words) - @sofia-llacer-caro
