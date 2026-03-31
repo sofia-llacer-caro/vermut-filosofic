@@ -24,7 +24,7 @@ Common space to reflect on critical thinking in relationship to artificial intel
 - [x] make repo private - @sofia-llacer-caro
 - [x] Limits of “user-friendly democratization” section last part that is in spanish - @sofia-llacer-caro
 - [x] The role of friction in learning last part MIT thing - @sofia-llacer-caro
-- [ ] add multimodal
+- [x] add multimodal
 
 ### Big
 - [x] Diagram 1 - @jmuozan
@@ -39,7 +39,7 @@ Common space to reflect on critical thinking in relationship to artificial intel
 - [x] Toward a pedagogical playbook - @jmuozan
 - [x] Conclusion - @sofia-llacer-caro
 - [x] hamlet example with the diagram? - @sofia-llacer-caro
-- [ ] Abstract (up to 800 words) - @sofia-llacer-caro
+- [x] Abstract (up to 800 words) - @sofia-llacer-caro
 - [ ] Title
 - [ ] put everything in template - @sofia-llacer-caro
 - [ ] proofreading - both <3
