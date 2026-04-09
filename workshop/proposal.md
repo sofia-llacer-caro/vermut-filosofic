@@ -22,9 +22,10 @@ Participants leave with: a shared vocabulary for critical AI pedagogy; practical
 The playbook invites ongoing contributions, critiques, and expansions from educators in Fab Labs, universities, schools, and informal learning spaces. FAB26 is the natural starting point: the global maker and education community gathered there is exactly the community this resource is built for and with.
 
 # Additional information
-This workshop is co-organized with Jorge Muñoz Zanón (Generalitat de Catalunya), co-author of "Friction First" and a graduate of the Master in Design for Emergent Futures at Fab Lab Barcelona. His grounding in maker culture and the lead author's research in participatory AI make this a genuinely interdisciplinary collaboration born from shared conviction, not institutional design.
+This workshop is co-organized with Jorge Muñoz Zanón (Generalitat de Catalunya), mechanical design and fabrication teacher in vocational schools and co-author of "Friction First". His grounding in maker culture and the lead author's research in participatory AI make this a genuinely interdisciplinary collaboration born from shared conviction, not institutional design.
 The playbook initiated here is intentionally low-barrier: no academic affiliation required, no fixed format imposed. It is built to hold what works, what fails, and what is entirely context-dependent (all equally valuable contributions).
 The workshop methodology is portable and repeatable: the same co-design process can be run at any educational gathering, making each iteration an expansion of the network started at FAB26. The goal is not a finished document but a living, evolving practice that belongs to everyone who contributes to it.
 
 # Short bio Speaker 2
-[Max 600 chars]
+Jorge Muñoz Zanón is an industrial design engineer and educator at Generalitat de Catalunya, where he teaches mechanical design and fabrication in vocational schools. Rooted in hands-on learning, his practice attemps to bridge technical skills with critical pedagogy. 
+
