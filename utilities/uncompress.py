@@ -20,11 +20,11 @@ def reassemble_from_zips(folder_path):
         # Sort parts numerically
         parts.sort(key=lambda x: int(re.search(r'_part(\d+)\.zip$', x).group(1)))
 
-        # Determine output file extension from folder or default to original name
-        output_file = os.path.join(folder_path, base_name + os.path.splitext(parts[0].replace(f"_part1", ""))[1])
-        
-        # Try to detect original extension from base_name
-        output_file = os.path.join(folder_path, base_name)
+        # Read original filename from inside the first zip part
+        first_zip_path = os.path.join(folder_path, parts[0])
+        with zipfile.ZipFile(first_zip_path, 'r') as zf:
+            original_filename = zf.namelist()[0]
+        output_file = os.path.join(folder_path, original_filename)
 
         print(f"\nReassembling '{base_name}' from {len(parts)} parts...")
 
