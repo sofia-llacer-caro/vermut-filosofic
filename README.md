@@ -4,4 +4,4 @@ The contents are divided in the following folders:
 
 - `diagram`: Which contains the assents and files used for the creation of the diagram "" used in the paper
 
-- `workshop`: which contains the presentation for the workshop and paper presentation
+- `workshop`: which contains the presentation for the workshop and paper presentation, including the website
