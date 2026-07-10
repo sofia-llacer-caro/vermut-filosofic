@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Friction First — Interactive Diagram</title>
+    <meta
+      name="description"
+      content="An interactive 3D exploration of the Friction First critical thinking diagram."
+    />
+    <link rel="stylesheet" href="/src/style.css" />
+  </head>
+  <body>
+    <div id="app">
+      <canvas id="scene"></canvas>
+
+      <header class="overlay overlay--top">
+        <h1>Friction First</h1>
+        <p>A toolkit for teaching critical thinking in an AI-saturated classroom.</p>
+      </header>
+
+      <div id="loading" class="overlay overlay--center">
+        <div class="loading-spinner" aria-hidden="true"></div>
+        <p>Loading diagram…</p>
+      </div>
+
+      <footer class="overlay overlay--bottom">
+        <p><span class="hint-drag">Drag</span> to rotate · <span class="hint-scroll">Scroll</span> to zoom</p>
+        <button id="autorotate-toggle" type="button" aria-pressed="false">Auto-rotate</button>
+      </footer>
+    </div>
+
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>

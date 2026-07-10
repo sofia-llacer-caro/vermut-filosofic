@@ -1,0 +1,170 @@
+:root {
+  --bg-top: #f4f3fb;
+  --bg-bottom: #dcd9ee;
+  --ink: #2b2740;
+  --ink-soft: rgba(43, 39, 64, 0.65);
+  --accent: #6c63ff;
+  --surface: rgba(255, 255, 255, 0.55);
+  --surface-border: rgba(43, 39, 64, 0.1);
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  height: 100%;
+  overflow: hidden;
+  color: var(--ink);
+  background: linear-gradient(160deg, var(--bg-top), var(--bg-bottom));
+}
+
+#app {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+}
+
+#scene {
+  position: absolute;
+  inset: 0;
+  display: block;
+  width: 100%;
+  height: 100%;
+  touch-action: none;
+  cursor: grab;
+}
+
+#scene:active {
+  cursor: grabbing;
+}
+
+.overlay {
+  position: absolute;
+  left: 0;
+  right: 0;
+  display: flex;
+  padding: clamp(1rem, 4vw, 2.5rem);
+  pointer-events: none;
+}
+
+.overlay--top,
+.overlay--bottom {
+  user-select: none;
+}
+
+.overlay--bottom #autorotate-toggle {
+  pointer-events: auto;
+}
+
+.overlay--top {
+  top: 0;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+.overlay--top h1 {
+  margin: 0;
+  font-size: clamp(1.4rem, 3vw, 2rem);
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+
+.overlay--top p {
+  margin: 0;
+  max-width: 32ch;
+  font-size: 0.95rem;
+  color: var(--ink-soft);
+}
+
+.overlay--bottom {
+  bottom: 0;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.overlay--bottom p {
+  margin: 0;
+  font-size: 0.85rem;
+  color: var(--ink-soft);
+}
+
+.overlay--bottom .hint-scroll {
+  display: inline;
+}
+
+@media (hover: none) {
+  .overlay--bottom .hint-drag::after {
+    content: " with one finger";
+  }
+  .overlay--bottom .hint-scroll {
+    display: none;
+  }
+  .overlay--bottom p::after {
+    content: " · pinch to zoom";
+  }
+}
+
+#autorotate-toggle {
+  font: inherit;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--ink);
+  background: var(--surface);
+  border: 1px solid var(--surface-border);
+  border-radius: 999px;
+  padding: 0.55rem 1.1rem;
+  cursor: pointer;
+  backdrop-filter: blur(8px);
+  transition: background 0.15s ease, transform 0.15s ease;
+}
+
+#autorotate-toggle:hover {
+  background: rgba(255, 255, 255, 0.75);
+}
+
+#autorotate-toggle[aria-pressed="true"] {
+  background: var(--accent);
+  color: white;
+  border-color: transparent;
+}
+
+.overlay--center {
+  top: 0;
+  bottom: 0;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 0.75rem;
+  transition: opacity 0.4s ease;
+}
+
+.overlay--center p {
+  margin: 0;
+  font-size: 0.9rem;
+  color: var(--ink-soft);
+}
+
+.overlay--center.is-hidden {
+  opacity: 0;
+  pointer-events: none;
+}
+
+.loading-spinner {
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+  border: 3px solid var(--surface-border);
+  border-top-color: var(--accent);
+  animation: spin 0.8s linear infinite;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
