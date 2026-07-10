@@ -30,6 +30,8 @@ Outputs static files to `dist/`.
 
 Pushing to `main` with changes under `workshop/website/` triggers `.github/workflows/deploy-website.yml`, which builds the site and publishes it to GitHub Pages at:
 
-https://sofia-llacer-caro.github.io/vermut-filosofic/
+https://sofia-llacer-caro.github.io/friction-first/
 
-One-time setup: in the GitHub repo, go to **Settings → Pages** and set **Source** to **GitHub Actions**.
+(the URL follows the repo name — it'll move again if the repo is renamed again)
+
+One-time setup: in the GitHub repo, go to **Settings → Pages** and set **Source** to **GitHub Actions**. Until that's done, the deploy workflow's `configure-pages` step will fail even though the build itself succeeds.
