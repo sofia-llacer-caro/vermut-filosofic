@@ -1,17 +1,8 @@
 import * as THREE from "three";
-import { initializeApp, getApps } from "firebase/app";
-import {
-  addDoc,
-  collection,
-  getFirestore,
-  onSnapshot,
-  orderBy,
-  query,
-  serverTimestamp,
-} from "firebase/firestore";
-import { firebaseConfig, isFirebaseConfigured } from "./firebaseConfig.js";
+import { createClient } from "@supabase/supabase-js";
+import { supabaseUrl, supabaseAnonKey, isSupabaseConfigured } from "./supabaseConfig.js";
 
-const COLLECTION_NAME = "postits";
+const TABLE_NAME = "postits";
 const BASE_SCALE = 6;
 const HOVER_SCALE = 22;
 const SCALE_DAMPING = 8;
@@ -22,22 +13,22 @@ const NOTE_COLORS = ["#ffe066", "#ffb3c6", "#a8e6b6", "#a9d4ff"];
 
 /**
  * Lets visitors pin a note to a point on the diagram's surface. Notes are
- * stored in Firestore so every visitor sees the same shared set, rendered
- * as small billboarded sprites that enlarge on hover to reveal the text.
+ * stored in Supabase (Postgres) so every visitor sees the same shared set,
+ * rendered as small billboarded sprites that enlarge on hover to reveal
+ * the text.
  *
- * If Firebase isn't configured (see .env.example) the feature is disabled
+ * If Supabase isn't configured (see .env.example) the feature is disabled
  * and the drop-note button stays hidden, so the viewer still works without it.
  */
 export function initPostIts({ scene, camera, renderer, controls, model, onRender, ui }) {
-  if (!isFirebaseConfigured) {
+  if (!isSupabaseConfigured) {
     console.warn(
-      "Post-its are disabled: Firebase is not configured. See workshop/website/.env.example."
+      "Post-its are disabled: Supabase is not configured. See workshop/website/.env.example."
     );
     return { enabled: false };
   }
 
-  const app = getApps().length ? getApps()[0] : initializeApp(firebaseConfig);
-  const db = getFirestore(app);
+  const supabase = createClient(supabaseUrl, supabaseAnonKey);
 
   const notesGroup = new THREE.Group();
   scene.add(notesGroup);
@@ -49,16 +40,31 @@ export function initPostIts({ scene, camera, renderer, controls, model, onRender
   let placing = false;
   let pointerDownPos = null;
 
-  const unsubscribe = onSnapshot(
-    query(collection(db, COLLECTION_NAME), orderBy("createdAt", "asc")),
-    (snapshot) => {
-      snapshot.docChanges().forEach((change) => {
-        if (change.type === "added") addNoteSprite(change.doc.id, change.doc.data());
-        if (change.type === "removed") removeNoteSprite(change.doc.id);
-      });
-    },
-    (error) => console.error("Failed to sync post-its:", error)
-  );
+  supabase
+    .from(TABLE_NAME)
+    .select("*")
+    .order("created_at", { ascending: true })
+    .then(({ data, error }) => {
+      if (error) {
+        console.error("Failed to load post-its:", error);
+        return;
+      }
+      data.forEach((row) => addNoteSprite(row.id, row));
+    });
+
+  const channel = supabase
+    .channel(`${TABLE_NAME}-realtime`)
+    .on(
+      "postgres_changes",
+      { event: "INSERT", schema: "public", table: TABLE_NAME },
+      (payload) => addNoteSprite(payload.new.id, payload.new)
+    )
+    .on(
+      "postgres_changes",
+      { event: "DELETE", schema: "public", table: TABLE_NAME },
+      (payload) => removeNoteSprite(payload.old.id)
+    )
+    .subscribe();
 
   function addNoteSprite(id, data) {
     if (sprites.has(id) || !data) return;
@@ -170,21 +176,17 @@ export function initPostIts({ scene, camera, renderer, controls, model, onRender
       cleanup();
       setPlacing(false);
 
-      try {
-        await addDoc(collection(db, COLLECTION_NAME), {
-          x: point.x,
-          y: point.y,
-          z: point.z,
-          nx: normal.x,
-          ny: normal.y,
-          nz: normal.z,
-          text,
-          name,
-          createdAt: serverTimestamp(),
-        });
-      } catch (error) {
-        console.error("Failed to save post-it:", error);
-      }
+      const { error } = await supabase.from(TABLE_NAME).insert({
+        x: point.x,
+        y: point.y,
+        z: point.z,
+        nx: normal.x,
+        ny: normal.y,
+        nz: normal.z,
+        text,
+        name,
+      });
+      if (error) console.error("Failed to save post-it:", error);
     }
   }
 
@@ -210,7 +212,7 @@ export function initPostIts({ scene, camera, renderer, controls, model, onRender
   return {
     enabled: true,
     dispose() {
-      unsubscribe();
+      supabase.removeChannel(channel);
       renderer.domElement.removeEventListener("pointermove", handlePointerMove);
       renderer.domElement.removeEventListener("pointerdown", handlePointerDown);
       renderer.domElement.removeEventListener("pointerup", handlePointerUp);
