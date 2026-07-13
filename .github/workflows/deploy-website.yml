@@ -32,7 +32,7 @@ jobs:
           cache: npm
           cache-dependency-path: workshop/website/package-lock.json
 
-      - run: npm ci
+      - run: npm install
       - run: npm run build
         env:
           VITE_SUPABASE_URL: ${{ secrets.VITE_SUPABASE_URL }}
