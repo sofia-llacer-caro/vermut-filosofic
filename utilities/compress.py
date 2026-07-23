@@ -19,4 +19,4 @@ def split_file_into_zips(file_path, chunk_size_mb=25):
             print(f"Created {zip_name}")
             part_num += 1
 
-split_file_into_zips("../diagram/photoshop/diagram.psd", chunk_size_mb=21)
+split_file_into_zips("../deck/pdf/hq_pdf/deck.pdf", chunk_size_mb=21)
