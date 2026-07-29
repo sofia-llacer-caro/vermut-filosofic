@@ -11,12 +11,12 @@ def split_file_into_zips(file_path, chunk_size_mb=25):
             if not chunk:
                 break
             
-            # Create a zip file for each chunk
+            # zip file for each chunk
             zip_name = f"{os.path.splitext(file_path)[0]}_part{part_num}.zip"
             with zipfile.ZipFile(zip_name, 'w', zipfile.ZIP_DEFLATED) as zf:
                 zf.writestr(os.path.basename(file_path), chunk)
             
-            print(f"Created {zip_name}")
+            print(f"{zip_name}")
             part_num += 1
 
-split_file_into_zips("../deck/pdf/hq_pdf/deck.pdf", chunk_size_mb=21)
+split_file_into_zips("../presentations/paper/friction_first_paper.pdf", chunk_size_mb=21)
