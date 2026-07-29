@@ -1,3 +1,0 @@
-- Could be cool to have cards for presentation for every atendee: Background, if teacher what age, country and stance on AI
-- Presentation on research emphasis on the diagram
-- 

@@ -1,4 +1,0 @@
-- good practices + diagram
-- what could this look like in the long run?
-- how might we... make this a sustainable workgroup or ongoing conversation
-- how might we... turn this into something people want to actually use?
