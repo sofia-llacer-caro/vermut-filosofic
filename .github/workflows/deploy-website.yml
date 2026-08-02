@@ -4,7 +4,7 @@ on:
   push:
     branches: [main]
     paths:
-      - "workshop/website/**"
+      - "website/**"
       - ".github/workflows/deploy-website.yml"
   workflow_dispatch:
 
@@ -22,7 +22,7 @@ jobs:
     runs-on: ubuntu-latest
     defaults:
       run:
-        working-directory: workshop/website
+        working-directory: website
     steps:
       - uses: actions/checkout@v4
 
@@ -30,18 +30,15 @@ jobs:
         with:
           node-version: 22
           cache: npm
-          cache-dependency-path: workshop/website/package-lock.json
+          cache-dependency-path: website/package-lock.json
 
       - run: npm install
       - run: npm run build
-        env:
-          VITE_SUPABASE_URL: ${{ secrets.VITE_SUPABASE_URL }}
-          VITE_SUPABASE_ANON_KEY: ${{ secrets.VITE_SUPABASE_ANON_KEY }}
 
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: workshop/website/dist
+          path: website/dist
 
   deploy:
     needs: build

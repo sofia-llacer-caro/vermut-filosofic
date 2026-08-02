@@ -1,18 +1,11 @@
 import { createScene } from "./scene.js";
 import { loadDiagram } from "./loadModel.js";
-import { initPostIts } from "./postits.js";
 
 const canvas = document.getElementById("scene");
 const loadingEl = document.getElementById("loading");
 const autorotateButton = document.getElementById("autorotate-toggle");
-const dropNoteButton = document.getElementById("drop-note-toggle");
-const noteFormOverlay = document.getElementById("note-form-overlay");
-const noteForm = document.getElementById("note-form");
-const noteFormCancel = document.getElementById("note-form-cancel");
-const noteTextInput = document.getElementById("note-text");
-const noteNameInput = document.getElementById("note-name");
 
-const { scene, camera, renderer, controls, onRender } = createScene(canvas);
+const { scene, camera, controls } = createScene(canvas);
 
 autorotateButton.addEventListener("click", () => {
   controls.autoRotate = !controls.autoRotate;
@@ -20,26 +13,9 @@ autorotateButton.addEventListener("click", () => {
 });
 
 loadDiagram({ scene })
-  .then(({ model, size }) => {
+  .then(({ size }) => {
     frameCameraToFit(size);
     loadingEl.classList.add("is-hidden");
-
-    initPostIts({
-      scene,
-      camera,
-      renderer,
-      controls,
-      model,
-      onRender,
-      ui: {
-        dropButton: dropNoteButton,
-        formDialog: noteFormOverlay,
-        form: noteForm,
-        formCancel: noteFormCancel,
-        formText: noteTextInput,
-        formName: noteNameInput,
-      },
-    });
   })
   .catch((error) => {
     console.error("Failed to load diagram model:", error);

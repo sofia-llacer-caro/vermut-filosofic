@@ -17,7 +17,9 @@ The contents are divided in the following folders:
 
 - `diagram`: Which contains the assents and files used for the creation of the diagram "" used in the paper
 
-- `workshop`: which contains the presentation for the workshop and paper presentation, including the website
+- `presentations`: which contains the presentations for the workshop and paper presentation
+
+- `website`: the interactive 3D diagram viewer, deployed to GitHub Pages
 
 ## About us
 

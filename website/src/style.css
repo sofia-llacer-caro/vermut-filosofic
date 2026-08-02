@@ -61,8 +61,7 @@ body {
   gap: 0.6rem;
 }
 
-.overlay--bottom #autorotate-toggle,
-.overlay--bottom #drop-note-toggle {
+.overlay--bottom #autorotate-toggle {
   pointer-events: auto;
 }
 
@@ -133,88 +132,7 @@ body {
   background: rgba(255, 255, 255, 0.75);
 }
 
-#autorotate-toggle[aria-pressed="true"],
-#drop-note-toggle[aria-pressed="true"] {
-  background: var(--accent);
-  color: white;
-  border-color: transparent;
-}
-
-#scene.is-placing {
-  cursor: crosshair;
-}
-
-.note-form-overlay {
-  position: absolute;
-  inset: 0;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background: rgba(43, 39, 64, 0.35);
-  backdrop-filter: blur(2px);
-  z-index: 20;
-}
-
-.note-form-overlay[hidden] {
-  display: none;
-}
-
-.note-form {
-  width: min(380px, 90vw);
-  display: flex;
-  flex-direction: column;
-  gap: 0.6rem;
-  padding: 1.5rem;
-  border-radius: 16px;
-  background: #fffdf5;
-  box-shadow: 0 20px 60px rgba(43, 39, 64, 0.35);
-}
-
-.note-form h2 {
-  margin: 0 0 0.25rem;
-  font-size: 1.1rem;
-}
-
-.note-form label {
-  font-size: 0.8rem;
-  font-weight: 600;
-  color: var(--ink-soft);
-}
-
-.note-form label span {
-  font-weight: 400;
-}
-
-.note-form textarea,
-.note-form input {
-  font: inherit;
-  padding: 0.6rem 0.7rem;
-  border-radius: 10px;
-  border: 1px solid var(--surface-border);
-  background: white;
-  resize: none;
-}
-
-.note-form-actions {
-  display: flex;
-  justify-content: flex-end;
-  gap: 0.6rem;
-  margin-top: 0.4rem;
-}
-
-.ghost-button,
-.primary-button {
-  font: inherit;
-  font-weight: 600;
-  font-size: 0.85rem;
-  padding: 0.55rem 1.1rem;
-  border-radius: 999px;
-  border: 1px solid var(--surface-border);
-  background: white;
-  cursor: pointer;
-}
-
-.primary-button {
+#autorotate-toggle[aria-pressed="true"] {
   background: var(--accent);
   color: white;
   border-color: transparent;

@@ -53,24 +53,14 @@ export function createScene(canvas) {
   }
   window.addEventListener("resize", handleResize);
 
-  // Lets features added later (e.g. post-it notes) hook into the render
-  // loop for per-frame animation without this module knowing about them.
-  const renderCallbacks = [];
-  function onRender(callback) {
-    renderCallbacks.push(callback);
-  }
-
-  const clock = new THREE.Clock();
   function tick() {
     controls.update();
-    const delta = clock.getDelta();
-    for (const callback of renderCallbacks) callback(delta);
     renderer.render(scene, camera);
     requestAnimationFrame(tick);
   }
   requestAnimationFrame(tick);
 
-  return { scene, camera, renderer, controls, onRender };
+  return { scene, camera, renderer, controls };
 }
 
 function setupLighting(scene) {

@@ -28,7 +28,7 @@ Outputs static files to `dist/`.
 
 ## Deploy
 
-Pushing to `main` with changes under `workshop/website/` triggers `.github/workflows/deploy-website.yml`, which builds the site and publishes it to GitHub Pages at:
+Pushing to `main` with changes under `website/` triggers `.github/workflows/deploy-website.yml`, which builds the site and publishes it to GitHub Pages at:
 
 https://sofia-llacer-caro.github.io/friction-first/
 

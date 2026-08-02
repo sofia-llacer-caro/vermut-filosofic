@@ -27,30 +27,9 @@
       <footer class="overlay overlay--bottom">
         <p><span class="hint-drag">Drag</span> to rotate · <span class="hint-scroll">Scroll</span> to zoom</p>
         <div class="footer-actions">
-          <button id="drop-note-toggle" type="button" aria-pressed="false" hidden>Drop a note</button>
           <button id="autorotate-toggle" type="button" aria-pressed="false">Auto-rotate</button>
         </div>
       </footer>
-
-      <div id="note-form-overlay" class="note-form-overlay" hidden>
-        <form id="note-form" class="note-form">
-          <h2>Drop a note</h2>
-          <label for="note-text">Your note</label>
-          <textarea
-            id="note-text"
-            rows="4"
-            maxlength="240"
-            required
-            placeholder="Share a thought about this part of the diagram…"
-          ></textarea>
-          <label for="note-name">Name <span>(optional)</span></label>
-          <input id="note-name" type="text" maxlength="40" placeholder="Anonymous" />
-          <div class="note-form-actions">
-            <button type="button" id="note-form-cancel" class="ghost-button">Cancel</button>
-            <button type="submit" class="primary-button">Pin it</button>
-          </div>
-        </form>
-      </div>
     </div>
 
     <script type="module" src="/src/main.js"></script>
