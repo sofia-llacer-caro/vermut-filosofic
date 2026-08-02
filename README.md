@@ -12,7 +12,7 @@ All the work in this repo is licensed under **CC BY-NC-SA 4.0** which is Attribu
 
 ![](./diagram/diagram.png)
 
-## Pedagocgical playbook
+## Pedagogical playbook
 
 ![](./deck/deck_layout.png)
 
