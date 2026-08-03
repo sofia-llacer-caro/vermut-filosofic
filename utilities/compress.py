@@ -19,4 +19,4 @@ def split_file_into_zips(file_path, chunk_size_mb=25):
             print(f"{zip_name}")
             part_num += 1
 
-split_file_into_zips("../presentations/paper/friction_first_paper.pdf", chunk_size_mb=21)
+split_file_into_zips("../deck/pdf/illustrator/Deck.ai", chunk_size_mb=21)
