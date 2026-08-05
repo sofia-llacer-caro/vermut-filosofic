@@ -1,6 +1,6 @@
 # Friction first FAB26 Boston
 
-The content in this repo has been created for the developement of the article [Friction First: A Toolkit for Teaching Critical Thinking in an Al-Saturated Classroom]() and for the complementary workshop [Friction First: Co-Building an Open Playbook for Critical Thinking Education in the Al Age](https://fab26.fabevent.org/programs/schedule?day=2026-07-28) presented at [FAB26](https://fab26.fabevent.org/) in Boston, Masachussetts.
+The content in this repo has been created for the developement of the article [Friction First: A Toolkit for Teaching Critical Thinking in an Al-Saturated Classroom](https://zenodo.org/records/21771895) and for the complementary workshop [Friction First: Co-Building an Open Playbook for Critical Thinking Education in the Al Age](https://fab26.fabevent.org/programs/schedule?day=2026-07-28) presented at [FAB26](https://fab26.fabevent.org/) in Boston, Masachussetts.
 
 ## IMPORTANT NOTES ABOUT THE LICENSE OF THE CONTENT OF THIS REPO
 
